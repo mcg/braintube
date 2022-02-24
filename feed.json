@@ -1,0 +1,2297 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Braintube",
+	"icon": "https://micro.blog/mcg/avatar.jpg",
+	"home_page_url": "https://braintube.com/",
+	"feed_url": "https://braintube.com/feed.json",
+	"items": [
+		
+			{
+				"id": "http://mcg.micro.blog/2022/02/12/probably-time-to.html",
+				
+				"content_html": "<p>Probably time to mark Firefox as “done” and move on, <a href=\"https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/\">blog.mozilla.org/en/mozill&hellip;</a></p>\n",
+				"content_text": "Probably time to mark Firefox as “done” and move on, [blog.mozilla.org/en/mozill...](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)\n",
+				"date_published": "2022-02-12T07:47:55-05:00",
+				"url": "https://braintube.com/2022/02/12/probably-time-to.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2022/02/10/had-to-enable.html",
+				
+				"content_html": "<p>Had to enable my first “mute” on micro.blog today.  Nothing egregious, but no time for that nonsense.</p>\n",
+				"content_text": "Had to enable my first “mute” on micro.blog today.  Nothing egregious, but no time for that nonsense. \n",
+				"date_published": "2022-02-10T08:14:01-05:00",
+				"url": "https://braintube.com/2022/02/10/had-to-enable.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2022/02/05/grabbed-the-five.html",
+				
+				"content_html": "<p>Grabbed the five year Write.as deal and had to do something with the ten blogs it gives you. Decided to dedicate one to our cats, <a href=\"https://meow.camp/\">meow.camp</a> .</p>\n",
+				"content_text": "Grabbed the five year Write.as deal and had to do something with the ten blogs it gives you. Decided to dedicate one to our cats, [meow.camp](https://meow.camp/) .\n",
+				"date_published": "2022-02-05T14:33:14-05:00",
+				"url": "https://braintube.com/2022/02/05/grabbed-the-five.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2022/01/17/wasnt-that-impressed.html",
+				
+				"content_html": "<p>Wasn&rsquo;t that impressed with spatial audio when Apple introduced it, but I recently revisited it with some newly released music. Blown away at how good it sounds now, both with AirPod&rsquo;s and a surround system. Not sure if music is being correctly mixed for the format now,  or Apple has improved things, or both.</p>\n",
+				"content_text": "Wasn't that impressed with spatial audio when Apple introduced it, but I recently revisited it with some newly released music. Blown away at how good it sounds now, both with AirPod's and a surround system. Not sure if music is being correctly mixed for the format now,  or Apple has improved things, or both.\n",
+				"date_published": "2022-01-17T11:57:31-05:00",
+				"url": "https://braintube.com/2022/01/17/wasnt-that-impressed.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/12/09/was-out-on.html",
+				
+				"content_html": "<p>Was out on my morning run this week when this little one walked out to ask for help.  He has some eye issues and very underweight, but seems to be improving. Oliver, our dog, loves him but not sure what to do with him.</p>\n\n<p><img src=\"uploads/2021/08dd55c4c8.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Was out on my morning run this week when this little one walked out to ask for help.  He has some eye issues and very underweight, but seems to be improving. Oliver, our dog, loves him but not sure what to do with him.\n\n<img src=\"uploads/2021/08dd55c4c8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-09T21:11:00-05:00",
+				"url": "https://braintube.com/2021/12/09/was-out-on.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/11/02/have-been-with.html",
+				
+				"content_html": "<p>Have been with Fastmail since 2004. Their service is and has been fantastic, but this will be my last month with the service. I have moved my email domain over to iCloud+ and it&rsquo;s worked out to be&hellip; OK. The biggest missing feature for me with iCloud+ is robust server side rules. It has them but not near as flexible as what Fastmail provides. I can live with it tho and it&rsquo;s worth the $40/year savings.</p>\n",
+				"content_text": "Have been with Fastmail since 2004. Their service is and has been fantastic, but this will be my last month with the service. I have moved my email domain over to iCloud+ and it's worked out to be... OK. The biggest missing feature for me with iCloud+ is robust server side rules. It has them but not near as flexible as what Fastmail provides. I can live with it tho and it's worth the $40/year savings.\n",
+				"date_published": "2021-11-02T13:10:42-05:00",
+				"url": "https://braintube.com/2021/11/02/have-been-with.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/10/03/picking-up-some.html",
+				
+				"content_html": "<p>Picking up some plants yesterday and found this little one.</p>\n\n<p><img src=\"uploads/2021/d064d542ed.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Picking up some plants yesterday and found this little one. \n\n<img src=\"uploads/2021/d064d542ed.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-03T04:56:27-05:00",
+				"url": "https://braintube.com/2021/10/03/picking-up-some.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/09/11/josie-enjoying-the.html",
+				
+				"content_html": "<p>Josie enjoying the new cat cave</p>\n\n<p><img src=\"uploads/2021/cfeded07bb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Josie enjoying the new cat cave\n\n<img src=\"uploads/2021/cfeded07bb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-11T15:43:03-05:00",
+				"url": "https://braintube.com/2021/09/11/josie-enjoying-the.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/08/29/anyone-tried-mela.html",
+				
+				"content_html": "<p>Anyone tried <a href=\"https://mela.recipes/\">Mela</a>? A delight to use and has me considering a switch from my current recipe/grocery app. Also not the first time I&rsquo;ve wished we had a file format/standard for recipes, that these types of apps could use for import/export. Somehow a single developer can build beautiful and fuctional native apps for macOS/iOS and yet a well funded team like AgileBits needs to resort to non-native toolkits.</p>\n",
+				"content_text": "Anyone tried [Mela](https://mela.recipes/)? A delight to use and has me considering a switch from my current recipe/grocery app. Also not the first time I've wished we had a file format/standard for recipes, that these types of apps could use for import/export. Somehow a single developer can build beautiful and fuctional native apps for macOS/iOS and yet a well funded team like AgileBits needs to resort to non-native toolkits. \n",
+				"date_published": "2021-08-29T13:44:00-05:00",
+				"url": "https://braintube.com/2021/08/29/anyone-tried-mela.html",
+				"tags": ["Macro"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/08/29/i-may-have.html",
+				
+				"content_html": "<p>I may have purchased a new domain to try out iCloud email with custom domains.</p>\n",
+				"content_text": "I may have purchased a new domain to try out iCloud email with custom domains. \n",
+				"date_published": "2021-08-29T13:35:42-05:00",
+				"url": "https://braintube.com/2021/08/29/i-may-have.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/08/15/two-crows-on.html",
+				
+				"content_html": "<p>Two Crows on the fence playing with something. Thought it was a butterfly but it was this Luna moth.</p>\n\n<p><img src=\"uploads/2021/b8b77cf679.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Two Crows on the fence playing with something. Thought it was a butterfly but it was this Luna moth. \n\n<img src=\"uploads/2021/b8b77cf679.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-15T13:28:26-05:00",
+				"url": "https://braintube.com/2021/08/15/two-crows-on.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/08/10/an-editor-transition.html",
+				
+				"content_html": "<p>For almost as long as I&rsquo;ve been in computing I&rsquo;ve used Emacs. At first almost stock with a few customization, then shifting into Prelude, pulling Magit and org-mode into daily usage. Over time, work duties forced me into more and more Vim usage, due to frequent remote editing. I ended up bouncing between Emacs and Vim all the time, learning to love Vim&rsquo;s model style and way of editing, but missing the power and kitchen sink of Emacs. This drove me to look for a compromise and landed me on Spacemacs, where I have been happily editing for a long time. But&hellip; times change and new tools come along, like VSCode.</p>\n\n<p>I had dabbled in VSCode over the years and it never seemed like a good fit for me. Even with a good Vim mode it required too much mousing and lacked tooling I relied on.  Then I discovered VSpaceCode and a little later VSCode added remote editing support. Finally, edamagit appeared. These take VSCode  to something very close to how I used Spacemacs. Continuing to dabble with this setup, things improved, more of Spacemacs was implemented, until last week, a milestone for me, I spent a whole day in VSCode, happily editing, almost unaware I wasn&rsquo;t using Spacemacs.</p>\n",
+				"content_text": "For almost as long as I've been in computing I've used Emacs. At first almost stock with a few customization, then shifting into Prelude, pulling Magit and org-mode into daily usage. Over time, work duties forced me into more and more Vim usage, due to frequent remote editing. I ended up bouncing between Emacs and Vim all the time, learning to love Vim's model style and way of editing, but missing the power and kitchen sink of Emacs. This drove me to look for a compromise and landed me on Spacemacs, where I have been happily editing for a long time. But... times change and new tools come along, like VSCode. \n\nI had dabbled in VSCode over the years and it never seemed like a good fit for me. Even with a good Vim mode it required too much mousing and lacked tooling I relied on.  Then I discovered VSpaceCode and a little later VSCode added remote editing support. Finally, edamagit appeared. These take VSCode  to something very close to how I used Spacemacs. Continuing to dabble with this setup, things improved, more of Spacemacs was implemented, until last week, a milestone for me, I spent a whole day in VSCode, happily editing, almost unaware I wasn't using Spacemacs. \n",
+				"date_published": "2021-08-10T13:37:00-05:00",
+				"url": "https://braintube.com/2021/08/10/an-editor-transition.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/05/14/picked-up-sagans.html",
+				
+				"content_html": "<p>Picked up Sagan’s “Broca’s Brain” in a little library the other day. It’s been years since I last read it and had forgotten how good it was and what a gift Sagan was.</p>\n",
+				"content_text": "Picked up Sagan’s “Broca’s Brain” in a little library the other day. It’s been years since I last read it and had forgotten how good it was and what a gift Sagan was. \n",
+				"date_published": "2021-05-14T18:10:03-05:00",
+				"url": "https://braintube.com/2021/05/14/picked-up-sagans.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/05/10/echos.html",
+				"title": "Echoes",
+				"content_html": "<p>When I was a kid, one of my favorite escapes from the small southern town I lived in was, &ldquo;<a href=\"https://echos.org/\">Echoes</a>&rdquo; on public radio. This show introduced me to so many artists and genres of music I probably would have otherwise never heard. The show has been going for 30+ years and still airs daily. Recently, I discovered that the show has a long running <a href=\"https://echoes.org/echoes-podcasts/\">podcast</a> that&rsquo;s mostly the interviews from the radio show. It&rsquo;s been a great addition to my podcast subscriptions.</p>\n",
+				"content_text": "When I was a kid, one of my favorite escapes from the small southern town I lived in was, \"[Echoes](https://echos.org/)\" on public radio. This show introduced me to so many artists and genres of music I probably would have otherwise never heard. The show has been going for 30+ years and still airs daily. Recently, I discovered that the show has a long running [podcast](https://echoes.org/echoes-podcasts/) that's mostly the interviews from the radio show. It's been a great addition to my podcast subscriptions.\n",
+				"date_published": "2021-05-10T17:09:00-05:00",
+				"url": "https://braintube.com/2021/05/10/echos.html",
+				"tags": ["Music","Macro"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/04/09/ventured-out-for.html",
+				
+				"content_html": "<p>Ventured out for the first time in a very long time.</p>\n\n<p><img src=\"uploads/2021/b0603518dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ventured out for the first time in a very long time. \n\n<img src=\"uploads/2021/b0603518dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-04-09T20:05:25-05:00",
+				"url": "https://braintube.com/2021/04/09/ventured-out-for.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/04/02/a-house-finch.html",
+				
+				"content_html": "<p>A House Finch pair made a nest outside my office window and now they have babies they are caring for. Love watching them feeding and hearing the chirps every so often.</p>\n",
+				"content_text": "A House Finch pair made a nest outside my office window and now they have babies they are caring for. Love watching them feeding and hearing the chirps every so often. \n",
+				"date_published": "2021-04-02T10:02:57-05:00",
+				"url": "https://braintube.com/2021/04/02/a-house-finch.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/03/31/i-really-need.html",
+				
+				"content_html": "<p>I really need to get out more while the flowers are still at peak.</p>\n\n<p><img src=\"uploads/2021/3042744b2f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I really need to get out more while the flowers are still at peak. \n\n<img src=\"uploads/2021/3042744b2f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-03-31T12:33:51-05:00",
+				"url": "https://braintube.com/2021/03/31/i-really-need.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/03/18/maybe-i-should.html",
+				
+				"content_html": "<p>Maybe I should consider Overcast again.</p>\n\n<blockquote>\n<p>Use Chartable or Podsights to measure your traffic? Overcast will no longer appear in your data: Marco Arment, the developer, has decided to skip those redirects entirely, after they have, he claims, become increasingly affected by ad-blocking DNS servers. “Most download links that would otherwise redirect through these widely-blocked domains will now try to skip that hop and go to whatever’s after them”, he says on Overcast’s Slack channel. “I keep getting emails and tweets from people whose downloads are being blocked at the network level by these DNS blocklists, and they’ve gotten frequent enough that I need to do something.” Podtrac is currently unaffected by this action, though.</p>\n</blockquote>\n\n<p>Via <a href=\"https://podnews.net/update/overcast-skips-redirects\">podnews.net/update/ov&hellip;</a></p>\n",
+				"content_text": "Maybe I should consider Overcast again.  \n\n> Use Chartable or Podsights to measure your traffic? Overcast will no longer appear in your data: Marco Arment, the developer, has decided to skip those redirects entirely, after they have, he claims, become increasingly affected by ad-blocking DNS servers. “Most download links that would otherwise redirect through these widely-blocked domains will now try to skip that hop and go to whatever’s after them”, he says on Overcast’s Slack channel. “I keep getting emails and tweets from people whose downloads are being blocked at the network level by these DNS blocklists, and they’ve gotten frequent enough that I need to do something.” Podtrac is currently unaffected by this action, though.\n\nVia [podnews.net/update/ov...](https://podnews.net/update/overcast-skips-redirects)\n",
+				"date_published": "2021-03-18T06:49:13-05:00",
+				"url": "https://braintube.com/2021/03/18/maybe-i-should.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/03/07/seems-like-microblog.html",
+				
+				"content_html": "<p>Seems like micro.blog is still having some trouble today?  Is there an official status page anywhere?</p>\n",
+				"content_text": "Seems like micro.blog is still having some trouble today?  Is there an official status page anywhere? \n",
+				"date_published": "2021-03-07T07:22:35-05:00",
+				"url": "https://braintube.com/2021/03/07/seems-like-microblog.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2021/02/01/its-been-a.html",
+				
+				"content_html": "<p>It’s been a long time since an app has “surprised and delighted” as much as the 5.0 release of CARROT Weather.\nSo good.</p>\n",
+				"content_text": "It’s been a long time since an app has “surprised and delighted” as much as the 5.0 release of CARROT Weather. \nSo good. \n",
+				"date_published": "2021-02-01T13:09:01-05:00",
+				"url": "https://braintube.com/2021/02/01/its-been-a.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/12/12/foggy-morning.html",
+				
+				"content_html": "<p>Foggy morning</p>\n\n<p><img src=\"uploads/2020/b1603cf00e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Foggy morning\n\n<img src=\"uploads/2020/b1603cf00e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-12T21:24:24-05:00",
+				"url": "https://braintube.com/2020/12/12/foggy-morning.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/11/27/the-mandalorian-se.html",
+				
+				"content_html": "<p>The Mandalorian S02E05 is excellent! Honestly, that single episode is better than most of the sequel trilogy.</p>\n",
+				"content_text": "The Mandalorian S02E05 is excellent! Honestly, that single episode is better than most of the sequel trilogy. \n",
+				"date_published": "2020-11-27T15:48:57-05:00",
+				"url": "https://braintube.com/2020/11/27/the-mandalorian-se.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/10/22/dogwood-berries.html",
+				
+				"content_html": "<p>Dogwood berries</p>\n\n<p><img src=\"uploads/2020/b79c82fbc0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dogwood berries\n\n<img src=\"uploads/2020/b79c82fbc0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-10-22T19:39:22-05:00",
+				"url": "https://braintube.com/2020/10/22/dogwood-berries.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/10/17/planned-to-cut.html",
+				
+				"content_html": "<p>Planned to cut the grass today. Probably one of the last cuts of the year.  But&hellip; lots of wind that&rsquo;s blowing most of the remaining leaves off the trees. Good excuse to put the cut off another day, when the mowing will pickup more leaves.</p>\n",
+				"content_text": "Planned to cut the grass today. Probably one of the last cuts of the year.  But... lots of wind that's blowing most of the remaining leaves off the trees. Good excuse to put the cut off another day, when the mowing will pickup more leaves. \n",
+				"date_published": "2020-10-17T13:26:21-05:00",
+				"url": "https://braintube.com/2020/10/17/planned-to-cut.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/10/14/a-nice-day.html",
+				
+				"content_html": "<p>A nice &ldquo;Day in the Life&rdquo; bonus, seeing how many folks are on the <a href=\"https://mastodon.social/tags/adayinthelife\">fedverse</a>(or at least cross-post) .</p>\n",
+				"content_text": "A nice \"Day in the Life\" bonus, seeing how many folks are on the [fedverse](https://mastodon.social/tags/adayinthelife)(or at least cross-post) .\n",
+				"date_published": "2020-10-14T19:09:06-05:00",
+				"url": "https://braintube.com/2020/10/14/a-nice-day.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/10/13/lunch-break-walk.html",
+				
+				"content_html": "<p>Lunch break walk. <a href=\"https://micro.blog/discover/adayinthelife\">#adayinthelife</a></p>\n\n<p>Taken in Downtown Summerville South Carolina at 12:58 (UTC-4)</p>\n\n<p><a href=\"https://micro.welltempered.net/2020/09/24/a-day-in.html\">24-hour photo challenge</a></p>\n\n<p><img src=\"uploads/2020/666eef2e45.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "Lunch break walk. [#adayinthelife](https://micro.blog/discover/adayinthelife)\n\nTaken in Downtown Summerville South Carolina at 12:58 (UTC-4)\n\n[24-hour photo challenge](https://micro.welltempered.net/2020/09/24/a-day-in.html)\n\n<img src=\"uploads/2020/666eef2e45.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"date_published": "2020-10-13T16:10:41-05:00",
+				"url": "https://braintube.com/2020/10/13/lunch-break-walk.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/10/03/nice-sunset-in.html",
+				
+				"content_html": "<p>Nice sunset in the Blue Ridge\n<img src=\"https://braintube.com/uploads/2020/fcd9216df6.jpg\" alt=\"6B750DA5-0481-47BD-B101-24BB25E91B80.jpg\" /></p>\n",
+				"content_text": "Nice sunset in the Blue Ridge\n![6B750DA5-0481-47BD-B101-24BB25E91B80.jpg](https://braintube.com/uploads/2020/fcd9216df6.jpg)\n",
+				"date_published": "2020-10-03T20:31:25-05:00",
+				"url": "https://braintube.com/2020/10/03/nice-sunset-in.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/10/01/hot-guts.html",
+				
+				"content_html": "<p>Hot Guts</p>\n\n<p><img src=\"uploads/2020/716f3f4c2b.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Hot Guts\n\n<img src=\"uploads/2020/716f3f4c2b.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-01T15:16:17-05:00",
+				"url": "https://braintube.com/2020/10/01/hot-guts.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/09/26/decorations.html",
+				
+				"content_html": "<p>Decorations</p>\n\n<p><img src=\"uploads/2020/0168f89278.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Decorations\n\n<img src=\"uploads/2020/0168f89278.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-26T13:15:10-05:00",
+				"url": "https://braintube.com/2020/09/26/decorations.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/09/23/pumpkin-thief.html",
+				
+				"content_html": "<p>Pumpkin thief</p>\n\n<p><img src=\"uploads/2020/084174a516.jpg\" width=\"600\" height=\"675\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Pumpkin thief\n\n<img src=\"uploads/2020/084174a516.jpg\" width=\"600\" height=\"675\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-23T06:29:22-05:00",
+				"url": "https://braintube.com/2020/09/23/pumpkin-thief.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/09/22/mood.html",
+				
+				"content_html": "<p>Mood</p>\n\n<p><img src=\"uploads/2020/3292c968cb.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Mood\n\n<img src=\"uploads/2020/3292c968cb.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-22T19:27:35-05:00",
+				"url": "https://braintube.com/2020/09/22/mood.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/09/05/tiny-fellow-decided.html",
+				
+				"content_html": "<p>Tiny fellow decided to look all tough and scary.</p>\n\n<p><img src=\"uploads/2020/1fd2375e80.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Tiny fellow decided to look all tough and scary.  \n\n<img src=\"uploads/2020/1fd2375e80.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-05T16:11:32-05:00",
+				"url": "https://braintube.com/2020/09/05/tiny-fellow-decided.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/08/30/most-of-the.html",
+				
+				"content_html": "<p>Most of the gang</p>\n\n<p><img src=\"uploads/2020/6fe4a39c90.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Most of the gang\n\n<img src=\"uploads/2020/6fe4a39c90.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-08-30T13:56:24-05:00",
+				"url": "https://braintube.com/2020/08/30/most-of-the.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/08/21/every-now-and.html",
+				
+				"content_html": "<p>Every now and then a Bandcamp recommendation goes somewhere unexpected and wonderful. This is one of them.\n<a href=\"http://seeming.bandcamp.com/album/the-birdwatchers-guide-to-atrocity\">The Birdwatchers Guide to Atrocity </a></p>\n\n<p><img src=\"https://braintube.com/uploads/2020/5a11e1e8b6.jpg\" alt=\"2701F50D-AE95-4411-B106-50C9505211B0.jpg\" /></p>\n",
+				"content_text": "Every now and then a Bandcamp recommendation goes somewhere unexpected and wonderful. This is one of them.\n[The Birdwatchers Guide to Atrocity ](http://seeming.bandcamp.com/album/the-birdwatchers-guide-to-atrocity)\n\n![2701F50D-AE95-4411-B106-50C9505211B0.jpg](https://braintube.com/uploads/2020/5a11e1e8b6.jpg)\n",
+				"date_published": "2020-08-21T20:52:36-05:00",
+				"url": "https://braintube.com/2020/08/21/every-now-and.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/08/09/pancakes.html",
+				
+				"content_html": "<p>Pancakes</p>\n\n<p><img src=\"uploads/2020/14007ed561.jpg\" width=\"3024.0\" height=\"3024.0\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Pancakes \n\n<img src=\"uploads/2020/14007ed561.jpg\" width=\"3024.0\" height=\"3024.0\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-08-09T19:24:17-05:00",
+				"url": "https://braintube.com/2020/08/09/pancakes.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/08/02/tiny-tree-frog.html",
+				
+				"content_html": "<p>Tiny tree frog on our morning walk.</p>\n\n<p><img src=\"uploads/2020/a740ab8d3b.jpg\" width=\"3024.0\" height=\"3024.0\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Tiny tree frog on our morning walk. \n\n<img src=\"uploads/2020/a740ab8d3b.jpg\" width=\"3024.0\" height=\"3024.0\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-08-02T10:41:23-05:00",
+				"url": "https://braintube.com/2020/08/02/tiny-tree-frog.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/07/12/blue-bird-nest.html",
+				
+				"content_html": "<p>Blue bird nest</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/7edb13a29e.jpg\"><img src=\"uploads/2020/7edb13a29e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Blue bird nest\n\n<a href=\"https://braintube.com/uploads/2020/7edb13a29e.jpg\"><img src=\"uploads/2020/7edb13a29e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-07-12T09:42:34-05:00",
+				"url": "https://braintube.com/2020/07/12/blue-bird-nest.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/07/12/not-sure-of.html",
+				
+				"content_html": "<p>Not sure of the plant, but I love it’s flowers. They grow down from the main branches on tiny sticks, then bloom on the end.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/6fc59e5205.jpg\"><img src=\"uploads/2020/6fc59e5205.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Not sure of the plant, but I love it’s flowers. They grow down from the main branches on tiny sticks, then bloom on the end. \n\n<a href=\"https://braintube.com/uploads/2020/6fc59e5205.jpg\"><img src=\"uploads/2020/6fc59e5205.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-07-12T09:38:58-05:00",
+				"url": "https://braintube.com/2020/07/12/not-sure-of.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/07/11/today-is-the.html",
+				
+				"content_html": "<p>Today is the first day of &ldquo;stay the heck indoors&rdquo; season.</p>\n",
+				"content_text": "Today is the first day of \"stay the heck indoors\" season. \n",
+				"date_published": "2020-07-11T10:04:13-05:00",
+				"url": "https://braintube.com/2020/07/11/today-is-the.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/07/10/love-some-lush.html",
+				
+				"content_html": "<p>Love some lush and sappy synthwave, <a href=\"https://music.apple.com/us/album/monsters/1508063533\">Monsters</a> 🎵</p>\n\n<p><img src=\"uploads/2020/867979be39.jpg\" width=\"400\" height=\"400\"/></p>\n",
+				"content_text": "Love some lush and sappy synthwave, [Monsters](https://music.apple.com/us/album/monsters/1508063533) 🎵\n\n<img src=\"uploads/2020/867979be39.jpg\" width=\"400\" height=\"400\"/>\n",
+				"date_published": "2020-07-10T08:54:00-05:00",
+				"url": "https://braintube.com/2020/07/10/love-some-lush.html",
+				"tags": ["Photos","Music"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/07/06/flowers-from-before.html",
+				
+				"content_html": "<p>Flowers from before</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/320a705ad1.jpg\"><img src=\"uploads/2020/320a705ad1.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Flowers from before\n\n<a href=\"https://braintube.com/uploads/2020/320a705ad1.jpg\"><img src=\"uploads/2020/320a705ad1.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-07-06T17:08:19-05:00",
+				"url": "https://braintube.com/2020/07/06/flowers-from-before.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/06/27/apparently-air-quality.html",
+				
+				"content_html": "<p>Apparently air quality is down here today due to dust from the Saharan desert. You can see the haze from the dust in the air and beautiful sunsets.</p>\n",
+				"content_text": "Apparently air quality is down here today due to dust from the Saharan desert. You can see the haze from the dust in the air and beautiful sunsets. \n",
+				"date_published": "2020-06-27T12:57:28-05:00",
+				"url": "https://braintube.com/2020/06/27/apparently-air-quality.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/06/27/yard-work-done.html",
+				
+				"content_html": "<p>Yard work done! Time for a beer and some tunes.</p>\n",
+				"content_text": "Yard work done! Time for a beer and some tunes. \n",
+				"date_published": "2020-06-27T11:58:42-05:00",
+				"url": "https://braintube.com/2020/06/27/yard-work-done.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/06/21/morning-walks-i.html",
+				
+				"content_html": "<p>Morning walks</p>\n\n<p>I love walks in the morning, before it’s too hot. Headphones on with some chill music, not too loud so you can still hear the birds. Occasionally you can smell someone cooking a breakfast from the street. Makes you wonder about the people preparing the food.</p>\n\n<p><img src=\"uploads/2020/ce2f78bc23.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Morning walks\n\nI love walks in the morning, before it’s too hot. Headphones on with some chill music, not too loud so you can still hear the birds. Occasionally you can smell someone cooking a breakfast from the street. Makes you wonder about the people preparing the food.\n\n\n\n<img src=\"uploads/2020/ce2f78bc23.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-06-21T10:34:09-05:00",
+				"url": "https://braintube.com/2020/06/21/morning-walks-i.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/06/17/drafts-brings-custom.html",
+				
+				"content_html": "<p>Drafts 21 brings custom dialogs with HTML/CSS/JS. This is <a href=\"https://mattgemmell.com/custom-prompts-for-drafts/\">amazing</a> .</p>\n",
+				"content_text": "Drafts 21 brings custom dialogs with HTML/CSS/JS. This is [amazing](https://mattgemmell.com/custom-prompts-for-drafts/) .\n",
+				"date_published": "2020-06-17T10:13:13-05:00",
+				"url": "https://braintube.com/2020/06/17/drafts-brings-custom.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/05/22/stumbled-across-the.html",
+				
+				"content_html": "<p>Stumbled across, the <a href=\"https://mikalkhill.bandcamp.com/album/the-browncoats-mixtape\">Browncoats Mixtape</a> and now I really need a Firefly rewatch. It&rsquo;s been a while.</p>\n",
+				"content_text": "Stumbled across, the [Browncoats Mixtape](https://mikalkhill.bandcamp.com/album/the-browncoats-mixtape) and now I really need a Firefly rewatch. It's been a while. \n",
+				"date_published": "2020-05-22T21:53:34-05:00",
+				"url": "https://braintube.com/2020/05/22/stumbled-across-the.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/05/10/gross-easter-beer.html",
+				
+				"content_html": "<p>&ldquo;Gross Easter Beer&rdquo;.</p>\n\n<p>It&rsquo;s an IPA brewed with dragon fruit , passion fruit, lemons and&hellip; marshmallow PEEPS. By Westbrook Brewing.</p>\n\n<p>I was a bit apprehensive to try this one. It’s definitely not gross.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/e16971bf23.jpg\"><img src=\"uploads/2020/e16971bf23.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "\"Gross Easter Beer\". \n\nIt's an IPA brewed with dragon fruit , passion fruit, lemons and... marshmallow PEEPS. By Westbrook Brewing.\n\nI was a bit apprehensive to try this one. It’s definitely not gross. \n\n<a href=\"https://braintube.com/uploads/2020/e16971bf23.jpg\"><img src=\"uploads/2020/e16971bf23.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-10T15:25:00-05:00",
+				"url": "https://braintube.com/2020/05/10/gross-easter-beer.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/05/08/my-battery-is.html",
+				
+				"content_html": "<blockquote>\n<p>My battery is getting low and it’s getting dark</p>\n</blockquote>\n\n<p>— Opportunity Rover 💬</p>\n",
+				"content_text": ">  My battery is getting low and it’s getting dark\n\n— Opportunity Rover 💬\n",
+				"date_published": "2020-05-08T19:56:22-05:00",
+				"url": "https://braintube.com/2020/05/08/my-battery-is.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/05/07/people-assume-that.html",
+				
+				"content_html": "<blockquote>\n<p>People assume that time is a strict progression of cause to effect, but actually from a non-linear, non-subjective viewpoint, it’s more like a big ball of wibbly-wobbly, timey-wimey stuff.</p>\n</blockquote>\n\n<p>&ndash; The Doctor 💬</p>\n",
+				"content_text": "> People assume that time is a strict progression of cause to effect, but actually from a non-linear, non-subjective viewpoint, it’s more like a big ball of wibbly-wobbly, timey-wimey stuff.\n\n-- The Doctor 💬\n",
+				"date_published": "2020-05-07T20:59:39-05:00",
+				"url": "https://braintube.com/2020/05/07/people-assume-that.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/05/06/my-workday-is.html",
+				
+				"content_html": "<p>My workday is done when I close the lid on my work MBP. It&rsquo;s extremely satisfying to close that lid.</p>\n",
+				"content_text": "My workday is done when I close the lid on my work MBP. It's extremely satisfying to close that lid.\n",
+				"date_published": "2020-05-06T16:30:44-05:00",
+				"url": "https://braintube.com/2020/05/06/my-workday-is.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/05/06/briefly-stated-the.html",
+				
+				"content_html": "<blockquote>\n<p>Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray’s case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the “wet streets cause rain” stories. Paper’s full of them.</p>\n\n<p>In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know.</p>\n</blockquote>\n\n<p>— Michael Crichton  💬</p>\n",
+				"content_text": " > Briefly stated, the Gell-Mann Amnesia effect is as follows. You open the newspaper to an article on some subject you know well. In Murray’s case, physics. In mine, show business. You read the article and see the journalist has absolutely no understanding of either the facts or the issues. Often, the article is so wrong it actually presents the story backward—reversing cause and effect. I call these the “wet streets cause rain” stories. Paper’s full of them.\n \n> In any case, you read with exasperation or amusement the multiple errors in a story, and then turn the page to national or international affairs, and read as if the rest of the newspaper was somehow more accurate about Palestine than the baloney you just read. You turn the page, and forget what you know.\n\n— Michael Crichton  💬\n",
+				"date_published": "2020-05-06T09:50:30-05:00",
+				"url": "https://braintube.com/2020/05/06/briefly-stated-the.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/05/05/i-have-a.html",
+				
+				"content_html": "<blockquote>\n<p>I have a foreboding of an America in my children&rsquo;s or grandchildren&rsquo;s time &ndash; when the United States is a service and information economy; when nearly all the manufacturing industries have slipped away to other countries; when awesome technological powers are in the hands of a very few, and no one representing the public interest can even grasp the issues; when the people have lost the ability to set their own agendas or knowledgeably question those in authority; when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what&rsquo;s true, we slide, almost without noticing, back into superstition and darkness&hellip;</p>\n\n<p>The dumbing down of American is most evident in the slow decay of substantive content in the enormously influential media, the 30 second sound bites (now down to 10 seconds or less), lowest common denominator programming, credulous presentations on pseudoscience and superstition, but especially a kind of celebration of ignorance</p>\n</blockquote>\n\n<p>&ndash; Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark 💬</p>\n",
+				"content_text": "> I have a foreboding of an America in my children's or grandchildren's time -- when the United States is a service and information economy; when nearly all the manufacturing industries have slipped away to other countries; when awesome technological powers are in the hands of a very few, and no one representing the public interest can even grasp the issues; when the people have lost the ability to set their own agendas or knowledgeably question those in authority; when, clutching our crystals and nervously consulting our horoscopes, our critical faculties in decline, unable to distinguish between what feels good and what's true, we slide, almost without noticing, back into superstition and darkness...\n\n> The dumbing down of American is most evident in the slow decay of substantive content in the enormously influential media, the 30 second sound bites (now down to 10 seconds or less), lowest common denominator programming, credulous presentations on pseudoscience and superstition, but especially a kind of celebration of ignorance\n\n-- Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark 💬\n",
+				"date_published": "2020-05-05T13:06:36-05:00",
+				"url": "https://braintube.com/2020/05/05/i-have-a.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/05/04/i-have-seen.html",
+				
+				"content_html": "<blockquote>\n<p>I have seen things you people wouldn&rsquo;t believe. HTML tags nested 14 layers deep off the shoulder of a signature. I watched DOM beams glitter in the dark near the font of Verdana. All these containers will be lost in time, like tears from the CPU. Time to cry.</p>\n</blockquote>\n\n<p>&mdash; DHH  💬</p>\n",
+				"content_text": "> I have seen things you people wouldn't believe. HTML tags nested 14 layers deep off the shoulder of a signature. I watched DOM beams glitter in the dark near the font of Verdana. All these containers will be lost in time, like tears from the CPU. Time to cry.\n\n  --- DHH  💬\n",
+				"date_published": "2020-05-04T14:18:39-05:00",
+				"url": "https://braintube.com/2020/05/04/i-have-seen.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/04/14/hi.html",
+				
+				"content_html": "<p>Hi 👋</p>\n\n<p><img src=\"uploads/2020/7dd29d5a36.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hi 👋 \n\n<img src=\"uploads/2020/7dd29d5a36.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-04-14T16:44:52-05:00",
+				"url": "https://braintube.com/2020/04/14/hi.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/04/14/this-song-slaps.html",
+				
+				"content_html": "<p>This song slaps 😅 <a href=\"https://music.apple.com/us/album/animate/642211626?i=642211703\">music.apple.com/us/album/&hellip;</a></p>\n",
+				"content_text": "This song slaps 😅 [music.apple.com/us/album/...](https://music.apple.com/us/album/animate/642211626?i=642211703)\n",
+				"date_published": "2020-04-14T16:30:30-05:00",
+				"url": "https://braintube.com/2020/04/14/this-song-slaps.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/04/14/folks-under-lockdown.html",
+				
+				"content_html": "<p>Folks under lockdown sure love to get out and come watch some newly hatched Mallard ducks. The boredom is real.</p>\n",
+				"content_text": "Folks under lockdown sure love to get out and come watch some newly hatched Mallard ducks. The boredom is real. \n",
+				"date_published": "2020-04-14T16:28:44-05:00",
+				"url": "https://braintube.com/2020/04/14/folks-under-lockdown.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/04/03/pond-visitor.html",
+				
+				"content_html": "<p>Pond visitor</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/32f4e842de.jpg\"><img src=\"uploads/2020/32f4e842de.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Pond visitor \n\n<a href=\"https://braintube.com/uploads/2020/32f4e842de.jpg\"><img src=\"uploads/2020/32f4e842de.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-04-03T21:58:49-05:00",
+				"url": "https://braintube.com/2020/04/03/pond-visitor.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/04/03/even-the-geese.html",
+				
+				"content_html": "<p>Even the geese are social distancing.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/8678b44ed4.jpg\"><img src=\"uploads/2020/8678b44ed4.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Even the geese are social distancing. \n\n<a href=\"https://braintube.com/uploads/2020/8678b44ed4.jpg\"><img src=\"uploads/2020/8678b44ed4.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-04-03T08:06:44-05:00",
+				"url": "https://braintube.com/2020/04/03/even-the-geese.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/03/28/how-to-revisit.html",
+				
+				"content_html": "<p>How to revisit a beloved Sci-fi franchise, Picard.</p>\n\n<p>How not to, Star Wars sequel trilogy.</p>\n",
+				"content_text": "How to revisit a beloved Sci-fi franchise, Picard. \n\nHow not to, Star Wars sequel trilogy. \n",
+				"date_published": "2020-03-28T12:21:55-05:00",
+				"url": "https://braintube.com/2020/03/28/how-to-revisit.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/03/24/josie.html",
+				
+				"content_html": "<p>Josie</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/0a26da0479.jpg\"><img src=\"uploads/2020/0a26da0479.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Josie\n\n<a href=\"https://braintube.com/uploads/2020/0a26da0479.jpg\"><img src=\"uploads/2020/0a26da0479.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-03-24T06:50:16-05:00",
+				"url": "https://braintube.com/2020/03/24/josie.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/03/19/have-been-reading.html",
+				
+				"content_html": "<p>Have been reading a bunch of posts about how the current forced work from home will help push companies into supporting more of it. Some of that may happen, but I think what we will see a lot more of is, folks getting a taste of what it&rsquo;s like and seeking out more distributed work.</p>\n",
+				"content_text": "Have been reading a bunch of posts about how the current forced work from home will help push companies into supporting more of it. Some of that may happen, but I think what we will see a lot more of is, folks getting a taste of what it's like and seeking out more distributed work.\n",
+				"date_published": "2020-03-19T13:56:07-05:00",
+				"url": "https://braintube.com/2020/03/19/have-been-reading.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/03/15/pollen-nose.html",
+				
+				"content_html": "<p>Pollen Nose</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/a931c8da51.jpg\"><img src=\"uploads/2020/a931c8da51.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Pollen Nose\n\n<a href=\"https://braintube.com/uploads/2020/a931c8da51.jpg\"><img src=\"uploads/2020/a931c8da51.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-03-15T16:00:36-05:00",
+				"url": "https://braintube.com/2020/03/15/pollen-nose.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/03/06/as-someone-looking.html",
+				
+				"content_html": "<p>As someone looking around for a new bookmarking service, <a href=\"https://medium.com/@WorldBrain/memex-2-0-and-our-mobile-app-launch-today-801f06254507\">Memex</a> looks interesting.</p>\n",
+				"content_text": "As someone looking around for a new bookmarking service, [Memex](https://medium.com/@WorldBrain/memex-2-0-and-our-mobile-app-launch-today-801f06254507) looks interesting.\n",
+				"date_published": "2020-03-06T17:04:29-05:00",
+				"url": "https://braintube.com/2020/03/06/as-someone-looking.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/03/01/another-view-of.html",
+				
+				"content_html": "<p>Another view of this thing I posted a while back. Seems appropriate for <strong>vision</strong>.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/306e58680d.jpg\"><img src=\"uploads/2020/306e58680d.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Another view of this thing I posted a while back. Seems appropriate for **vision**. \n\n<a href=\"https://braintube.com/uploads/2020/306e58680d.jpg\"><img src=\"uploads/2020/306e58680d.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-03-01T15:50:57-05:00",
+				"url": "https://braintube.com/2020/03/01/another-view-of.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/29/leap.html",
+				
+				"content_html": "<p>Leap</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/453098a42e.jpg\"><img src=\"uploads/2020/453098a42e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Leap\n\n<a href=\"https://braintube.com/uploads/2020/453098a42e.jpg\"><img src=\"uploads/2020/453098a42e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-29T08:57:46-05:00",
+				"url": "https://braintube.com/2020/02/29/leap.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/28/below.html",
+				
+				"content_html": "<p><strong>Below</strong></p>\n\n<p><a href=\"https://braintube.com/uploads/2020/14a8aa5145.jpg\"><img src=\"uploads/2020/14a8aa5145.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "**Below**\n\n<a href=\"https://braintube.com/uploads/2020/14a8aa5145.jpg\"><img src=\"uploads/2020/14a8aa5145.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-28T06:55:25-05:00",
+				"url": "https://braintube.com/2020/02/28/below.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/27/coffee-together.html",
+				
+				"content_html": "<p>Coffee <strong>together</strong></p>\n\n<p><a href=\"https://braintube.com/uploads/2020/995386a24d.jpg\"><img src=\"uploads/2020/995386a24d.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Coffee **together**\n\n<a href=\"https://braintube.com/uploads/2020/995386a24d.jpg\"><img src=\"uploads/2020/995386a24d.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-27T19:58:41-05:00",
+				"url": "https://braintube.com/2020/02/27/coffee-together.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/26/a-favorite-escape.html",
+				
+				"content_html": "<p>A favorite <strong>escape</strong>, the mountains of WNC.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/30d1ffa916.jpg\"><img src=\"uploads/2020/30d1ffa916.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "A favorite **escape**, the mountains of WNC. \n\n<a href=\"https://braintube.com/uploads/2020/30d1ffa916.jpg\"><img src=\"uploads/2020/30d1ffa916.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-26T07:24:44-05:00",
+				"url": "https://braintube.com/2020/02/26/a-favorite-escape.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/25/hurdle-ive-got.html",
+				
+				"content_html": "<p><strong>Hurdle</strong></p>\n\n<p>I’ve got nothing for this one, have a doughnut.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/95a129f78d.jpg\"><img src=\"uploads/2020/95a129f78d.jpg\" width=\"296\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "**Hurdle**\n\nI’ve got nothing for this one, have a doughnut. \n\n<a href=\"https://braintube.com/uploads/2020/95a129f78d.jpg\"><img src=\"uploads/2020/95a129f78d.jpg\" width=\"296\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-25T07:24:08-05:00",
+				"url": "https://braintube.com/2020/02/25/hurdle-ive-got.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/24/double-tired.html",
+				
+				"content_html": "<p>Double tired.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/5c4fa8ee3f.jpg\"><img src=\"uploads/2020/5c4fa8ee3f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Double tired. \n\n<a href=\"https://braintube.com/uploads/2020/5c4fa8ee3f.jpg\"><img src=\"uploads/2020/5c4fa8ee3f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-24T21:47:47-05:00",
+				"url": "https://braintube.com/2020/02/24/double-tired.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/23/station-my-dads.html",
+				
+				"content_html": "<p><strong>Station</strong></p>\n\n<p>My dads 40+ year old shortwave radio. When I was a kid, I loved to play with it and listen to the strange sounds and foreign voices it would pick up.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/a73679bf4d.jpg\"><img src=\"uploads/2020/a73679bf4d.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "**Station**\n\nMy dads 40+ year old shortwave radio. When I was a kid, I loved to play with it and listen to the strange sounds and foreign voices it would pick up. \n\n<a href=\"https://braintube.com/uploads/2020/a73679bf4d.jpg\"><img src=\"uploads/2020/a73679bf4d.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-23T20:33:45-05:00",
+				"url": "https://braintube.com/2020/02/23/station-my-dads.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/22/spectaclethis-coffee-shop.html",
+				
+				"content_html": "<p><strong>Spectacle</strong>\nThis coffee shop mural has a lot going on.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/66f65f5e8f.jpg\"><img src=\"uploads/2020/66f65f5e8f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "**Spectacle**\nThis coffee shop mural has a lot going on. \n\n<a href=\"https://braintube.com/uploads/2020/66f65f5e8f.jpg\"><img src=\"uploads/2020/66f65f5e8f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-22T15:42:37-05:00",
+				"url": "https://braintube.com/2020/02/22/spectaclethis-coffee-shop.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/21/marks-on-the.html",
+				
+				"content_html": "<p>Marks on the wall, tracking the growth <strong>progress</strong> of our youngest.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/233c2ac3d2.jpg\"><img src=\"uploads/2020/233c2ac3d2.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Marks on the wall, tracking the growth **progress** of our youngest. \n\n<a href=\"https://braintube.com/uploads/2020/233c2ac3d2.jpg\"><img src=\"uploads/2020/233c2ac3d2.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-21T16:05:06-05:00",
+				"url": "https://braintube.com/2020/02/21/marks-on-the.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/20/dragon-scales.html",
+				
+				"content_html": "<p>Dragon Scales</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/05c42384ea.jpg\"><img src=\"uploads/2020/05c42384ea.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Dragon Scales\n\n<a href=\"https://braintube.com/uploads/2020/05c42384ea.jpg\"><img src=\"uploads/2020/05c42384ea.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-20T18:17:07-05:00",
+				"url": "https://braintube.com/2020/02/20/dragon-scales.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/19/space.html",
+				
+				"content_html": "<p>Space</p>\n\n<p><img src=\"uploads/2020/7be5b3125e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Space\n\n<img src=\"uploads/2020/7be5b3125e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-02-19T06:55:14-05:00",
+				"url": "https://braintube.com/2020/02/19/space.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/18/these-turtles-are.html",
+				
+				"content_html": "<p>These turtles are way more aggressive for food than you’d expect. Rather hard to <strong>oppose</strong> them.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/4ecf3f4f87.jpg\"><img src=\"uploads/2020/4ecf3f4f87.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "These turtles are way more aggressive for food than you’d expect. Rather hard to **oppose** them. \n\n<a href=\"https://braintube.com/uploads/2020/4ecf3f4f87.jpg\"><img src=\"uploads/2020/4ecf3f4f87.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-18T10:36:00-05:00",
+				"url": "https://braintube.com/2020/02/18/these-turtles-are.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/17/i-guess-a.html",
+				
+				"content_html": "<p>I guess a giant glass of ice tea may count as cool.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/c34d008485.jpg\"><img src=\"uploads/2020/c34d008485.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "I guess a giant glass of ice tea may count as cool. \n\n<a href=\"https://braintube.com/uploads/2020/c34d008485.jpg\"><img src=\"uploads/2020/c34d008485.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-17T07:45:18-05:00",
+				"url": "https://braintube.com/2020/02/17/i-guess-a.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/16/rest.html",
+				
+				"content_html": "<p>Rest</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/429fc4be60.jpg\"><img src=\"uploads/2020/429fc4be60.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Rest \n\n<a href=\"https://braintube.com/uploads/2020/429fc4be60.jpg\"><img src=\"uploads/2020/429fc4be60.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-16T08:16:09-05:00",
+				"url": "https://braintube.com/2020/02/16/rest.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/15/balance.html",
+				
+				"content_html": "<p>Balance</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/7c57227ba8.jpg\"><img src=\"uploads/2020/7c57227ba8.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Balance\n\n<a href=\"https://braintube.com/uploads/2020/7c57227ba8.jpg\"><img src=\"uploads/2020/7c57227ba8.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-15T07:27:15-05:00",
+				"url": "https://braintube.com/2020/02/15/balance.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/14/warmth.html",
+				
+				"content_html": "<p>Warmth</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/91b5d77515.jpg\"><img src=\"uploads/2020/91b5d77515.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Warmth\n\n<a href=\"https://braintube.com/uploads/2020/91b5d77515.jpg\"><img src=\"uploads/2020/91b5d77515.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-14T07:44:57-05:00",
+				"url": "https://braintube.com/2020/02/14/warmth.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/13/rise-some-early.html",
+				
+				"content_html": "<p>Rise</p>\n\n<p>Some early morning ducks.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/a7f4682d4f.jpg\"><img src=\"uploads/2020/a7f4682d4f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Rise\n\nSome early morning ducks. \n\n<a href=\"https://braintube.com/uploads/2020/a7f4682d4f.jpg\"><img src=\"uploads/2020/a7f4682d4f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-13T09:42:06-05:00",
+				"url": "https://braintube.com/2020/02/13/rise-some-early.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/12/attachment.html",
+				
+				"content_html": "<p>Attachment</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/82ffc593e9.jpg\"><img src=\"uploads/2020/82ffc593e9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Attachment \n\n<a href=\"https://braintube.com/uploads/2020/82ffc593e9.jpg\"><img src=\"uploads/2020/82ffc593e9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-12T08:20:10-05:00",
+				"url": "https://braintube.com/2020/02/12/attachment.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/11/plain.html",
+				
+				"content_html": "<p>Plain</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/3732ed3206.jpg\"><img src=\"uploads/2020/3732ed3206.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Plain\n\n<a href=\"https://braintube.com/uploads/2020/3732ed3206.jpg\"><img src=\"uploads/2020/3732ed3206.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-11T06:58:09-05:00",
+				"url": "https://braintube.com/2020/02/11/plain.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/10/sign-bit-of.html",
+				
+				"content_html": "<p>Sign</p>\n\n<p>Bit of a repost, but a new photo of this old stop sign embedded in the road.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/4d8095a189.jpg\"><img src=\"uploads/2020/4d8095a189.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Sign\n\nBit of a repost, but a new photo of this old stop sign embedded in the road. \n\n<a href=\"https://braintube.com/uploads/2020/4d8095a189.jpg\"><img src=\"uploads/2020/4d8095a189.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-10T08:47:10-05:00",
+				"url": "https://braintube.com/2020/02/10/sign-bit-of.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/09/lull.html",
+				
+				"content_html": "<p>Lull</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/f5d02e0271.jpg\"><img src=\"uploads/2020/f5d02e0271.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Lull\n\n<a href=\"https://braintube.com/uploads/2020/f5d02e0271.jpg\"><img src=\"uploads/2020/f5d02e0271.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-09T09:33:43-05:00",
+				"url": "https://braintube.com/2020/02/09/lull.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/08/contrast.html",
+				
+				"content_html": "<p>Contrast</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/d8f8fbf533.jpg\"><img src=\"uploads/2020/d8f8fbf533.jpg\" width=\"280\" height=\"280\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Contrast\n\n<a href=\"https://braintube.com/uploads/2020/d8f8fbf533.jpg\"><img src=\"uploads/2020/d8f8fbf533.jpg\" width=\"280\" height=\"280\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-08T16:10:29-05:00",
+				"url": "https://braintube.com/2020/02/08/contrast.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/07/above.html",
+				
+				"content_html": "<p>Above</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/5a5a256aac.jpg\"><img src=\"uploads/2020/5a5a256aac.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Above\n\n<a href=\"https://braintube.com/uploads/2020/5a5a256aac.jpg\"><img src=\"uploads/2020/5a5a256aac.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-07T07:38:08-05:00",
+				"url": "https://braintube.com/2020/02/07/above.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/06/plant.html",
+				
+				"content_html": "<p>Plant</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/9e6edeb0be.jpg\"><img src=\"uploads/2020/9e6edeb0be.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Plant\n\n<a href=\"https://braintube.com/uploads/2020/9e6edeb0be.jpg\"><img src=\"uploads/2020/9e6edeb0be.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-06T06:54:26-05:00",
+				"url": "https://braintube.com/2020/02/06/plant.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/05/an-angle-on.html",
+				
+				"content_html": "<p>An angle on subscription pricing I haven&rsquo;t heard mentioned, is the loss of family sharing. Having to pay $4/m is one thing, but if the app is something you&rsquo;ve been sharing, double or triple that is a very hard sell.</p>\n",
+				"content_text": "An angle on subscription pricing I haven't heard mentioned, is the loss of family sharing. Having to pay $4/m is one thing, but if the app is something you've been sharing, double or triple that is a very hard sell.\n",
+				"date_published": "2020-02-05T14:09:26-05:00",
+				"url": "https://braintube.com/2020/02/05/an-angle-on.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/05/hide.html",
+				
+				"content_html": "<p>Hide</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/8533749500.jpg\"><img src=\"uploads/2020/8533749500.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Hide\n\n<a href=\"https://braintube.com/uploads/2020/8533749500.jpg\"><img src=\"uploads/2020/8533749500.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-05T08:01:32-05:00",
+				"url": "https://braintube.com/2020/02/05/hide.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/04/spot.html",
+				
+				"content_html": "<p>Spot</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/dbff03f909.jpg\"><img src=\"uploads/2020/dbff03f909.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Spot\n\n<a href=\"https://braintube.com/uploads/2020/dbff03f909.jpg\"><img src=\"uploads/2020/dbff03f909.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-04T07:43:36-05:00",
+				"url": "https://braintube.com/2020/02/04/spot.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/03/reflect-a-bit.html",
+				
+				"content_html": "<p>Reflect.</p>\n\n<p>A bit of explanation on this one. It is a reflection of the sun, off of a pond, through a window and finally landing on a wall inside a house.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/577647e274.jpg\"><img src=\"uploads/2020/577647e274.jpg\" width=\"552\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Reflect. \n\nA bit of explanation on this one. It is a reflection of the sun, off of a pond, through a window and finally landing on a wall inside a house. \n\n<a href=\"https://braintube.com/uploads/2020/577647e274.jpg\"><img src=\"uploads/2020/577647e274.jpg\" width=\"552\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-03T06:46:28-05:00",
+				"url": "https://braintube.com/2020/02/03/reflect-a-bit.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/02/without-sight.html",
+				
+				"content_html": "<p>Without Sight</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/cfef5b3516.jpg\"><img src=\"uploads/2020/cfef5b3516.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Without Sight\n\n<a href=\"https://braintube.com/uploads/2020/cfef5b3516.jpg\"><img src=\"uploads/2020/cfef5b3516.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-02T14:40:44-05:00",
+				"url": "https://braintube.com/2020/02/02/without-sight.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/02/01/not-open.html",
+				
+				"content_html": "<p>Not Open</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/194918c69a.jpg\"><img src=\"uploads/2020/194918c69a.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Not Open\n\n<a href=\"https://braintube.com/uploads/2020/194918c69a.jpg\"><img src=\"uploads/2020/194918c69a.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-02-01T18:19:55-05:00",
+				"url": "https://braintube.com/2020/02/01/not-open.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/01/27/just-discovered-prime.html",
+				
+				"content_html": "<p>Just discovered Prime video no longer has Doctor Who. Really bummed.</p>\n",
+				"content_text": "Just discovered Prime video no longer has Doctor Who. Really bummed. \n",
+				"date_published": "2020-01-27T19:29:19-05:00",
+				"url": "https://braintube.com/2020/01/27/just-discovered-prime.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/01/24/early-flight.html",
+				
+				"content_html": "<p>Early flight</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/5f4e785057.jpg\"><img src=\"uploads/2020/5f4e785057.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Early flight\n\n<a href=\"https://braintube.com/uploads/2020/5f4e785057.jpg\"><img src=\"uploads/2020/5f4e785057.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-01-24T05:41:11-05:00",
+				"url": "https://braintube.com/2020/01/24/early-flight.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/01/20/dont-blink.html",
+				
+				"content_html": "<p>Don’t blink</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/6e0ead5cef.jpg\"><img src=\"uploads/2020/6e0ead5cef.jpg\" width=\"562\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Don’t blink\n\n<a href=\"https://braintube.com/uploads/2020/6e0ead5cef.jpg\"><img src=\"uploads/2020/6e0ead5cef.jpg\" width=\"562\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-01-20T22:10:31-05:00",
+				"url": "https://braintube.com/2020/01/20/dont-blink.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/01/20/going-places.html",
+				
+				"content_html": "<p>Going places</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/d6c810f687.jpg\"><img src=\"uploads/2020/d6c810f687.jpg\" width=\"467\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Going places\n\n<a href=\"https://braintube.com/uploads/2020/d6c810f687.jpg\"><img src=\"uploads/2020/d6c810f687.jpg\" width=\"467\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-01-20T13:09:20-05:00",
+				"url": "https://braintube.com/2020/01/20/going-places.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/01/19/well-that-was.html",
+				
+				"content_html": "<p>Well that was a nice one.</p>\n\n<p><a href=\"https://braintube.com/uploads/2020/aa5fc2e254.jpg\"><img src=\"uploads/2020/aa5fc2e254.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Well that was a nice one. \n\n<a href=\"https://braintube.com/uploads/2020/aa5fc2e254.jpg\"><img src=\"uploads/2020/aa5fc2e254.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-01-19T18:11:05-05:00",
+				"url": "https://braintube.com/2020/01/19/well-that-was.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/01/10/on-my-ship.html",
+				
+				"content_html": "<p>&ldquo;On my ship, the Rocinante; wheeling through the galaxy&rdquo;. How did I not know this Rush lyric reference from The Expanse?</p>\n",
+				"content_text": "\"On my ship, the Rocinante; wheeling through the galaxy\". How did I not know this Rush lyric reference from The Expanse?\n",
+				"date_published": "2020-01-10T21:04:35-05:00",
+				"url": "https://braintube.com/2020/01/10/on-my-ship.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/01/10/a-huge-part.html",
+				
+				"content_html": "<p>A huge part of my teenage years was Rush and I idolized Neil.\nOne of the best drummers to ever live.</p>\n\n<p>Rest in peace, Neil Peart.</p>\n\n<p><img src=\"uploads/2020/b2c9704038.jpg\" width=\"377\" height=\"463\" alt=\"\" /></p>\n",
+				"content_text": "A huge part of my teenage years was Rush and I idolized Neil.\nOne of the best drummers to ever live. \n\nRest in peace, Neil Peart. \n\n<img src=\"uploads/2020/b2c9704038.jpg\" width=\"377\" height=\"463\" alt=\"\" />\n",
+				"date_published": "2020-01-10T17:42:20-05:00",
+				"url": "https://braintube.com/2020/01/10/a-huge-part.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/01/10/busy-morning-on.html",
+				
+				"content_html": "<p>Busy morning on the feeders.</p>\n\n<p><img src=\"uploads/2020/708f932fc2.jpg\" width=\"600\" height=\"570\" alt=\"Two Pileated woodpeckers in the distance eating on a tree stump on the ground..\" /></p>\n\n<p><img src=\"uploads/2020/386eee5ee6.jpg\" width=\"600” height=\"570” alt=\"Closeup of a bird feeder. On the feeder are Blue birds and a Red-Bellied woodpecker.\" /></p>\n",
+				"content_text": "Busy morning on the feeders.\n\n<img src=\"uploads/2020/708f932fc2.jpg\" width=\"600\" height=\"570\" alt=\"Two Pileated woodpeckers in the distance eating on a tree stump on the ground..\" />\n\n<img src=\"uploads/2020/386eee5ee6.jpg\" width=\"600” height=\"570” alt=\"Closeup of a bird feeder. On the feeder are Blue birds and a Red-Bellied woodpecker.\" />\n",
+				"date_published": "2020-01-10T10:05:00-05:00",
+				"url": "https://braintube.com/2020/01/10/busy-morning-on.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2020/01/01/its-cool-that.html",
+				
+				"content_html": "<p>It&rsquo;s cool that ProtonMail added encrypted calendaring. Would be nice if we had this(and mail), except with standard protocol based access, instead of only with Proton&rsquo;s clients.</p>\n",
+				"content_text": "It's cool that ProtonMail added encrypted calendaring. Would be nice if we had this(and mail), except with standard protocol based access, instead of only with Proton's clients. \n",
+				"date_published": "2020-01-01T12:53:44-05:00",
+				"url": "https://braintube.com/2020/01/01/its-cool-that.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/12/28/love-this-indepth.html",
+				
+				"content_html": "<p>Love this in-depth post about Flickr. Lots of good reasons to stay with Flickr.</p>\n\n<p><a href=\"https://ferdychristant.com/the-rise-fall-and-resurrection-of-flickr-ca1850410ee1\">ferdychristant.com/the-rise-&hellip;</a></p>\n",
+				"content_text": "Love this in-depth post about Flickr. Lots of good reasons to stay with Flickr. \n\n[ferdychristant.com/the-rise-...](https://ferdychristant.com/the-rise-fall-and-resurrection-of-flickr-ca1850410ee1)\n",
+				"date_published": "2019-12-28T12:31:11-05:00",
+				"url": "https://braintube.com/2019/12/28/love-this-indepth.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/12/20/just-finished-s.html",
+				
+				"content_html": "<p>Just finished S4 of The Expanse. It&rsquo;s been a while since I watched the older episodes, but I think this is one of the best. Solid plots and little filler.  Can&rsquo;t wait for S5.</p>\n",
+				"content_text": "Just finished S4 of The Expanse. It's been a while since I watched the older episodes, but I think this is one of the best. Solid plots and little filler.  Can't wait for S5. \n",
+				"date_published": "2019-12-20T08:23:49-05:00",
+				"url": "https://braintube.com/2019/12/20/just-finished-s.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/12/19/a-jedi-is.html",
+				
+				"content_html": "<p>A Jedi is supposed to build their own lightsaber, right?</p>\n\n<p><a href=\"https://braintube.com/uploads/2019/a0b40d8407.jpg\"><img src=\"uploads/2019/a0b40d8407.jpg\" width=\"600\" height=\"409\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "A Jedi is supposed to build their own lightsaber, right?\n\n<a href=\"https://braintube.com/uploads/2019/a0b40d8407.jpg\"><img src=\"uploads/2019/a0b40d8407.jpg\" width=\"600\" height=\"409\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-12-19T22:06:00-05:00",
+				"url": "https://braintube.com/2019/12/19/a-jedi-is.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/11/02/there-will-be.html",
+				
+				"content_html": "<p>There will be hops 3.</p>\n\n<p><a href=\"https://braintube.com/uploads/2019/093580c69a.jpg\"><img src=\"uploads/2019/093580c69a.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "There will be hops 3. \n\n<a href=\"https://braintube.com/uploads/2019/093580c69a.jpg\"><img src=\"uploads/2019/093580c69a.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-11-02T13:11:28-05:00",
+				"url": "https://braintube.com/2019/11/02/there-will-be.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/11/02/stop-on-top.html",
+				
+				"content_html": "<p>Stop on top</p>\n\n<p><a href=\"https://braintube.com/uploads/2019/4bda808237.jpg\"><img src=\"uploads/2019/4bda808237.jpg\" width=\"428\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Stop on top\n\n<a href=\"https://braintube.com/uploads/2019/4bda808237.jpg\"><img src=\"uploads/2019/4bda808237.jpg\" width=\"428\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-11-02T13:07:05-05:00",
+				"url": "https://braintube.com/2019/11/02/stop-on-top.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/10/06/story-isnt-amazing.html",
+				
+				"content_html": "<p>The story isn’t amazing, but the scenery is.  <a href=\"https://www.netflix.com/title/70305043?s=i&amp;trkid=13747225\">Hinterland</a></p>\n",
+				"content_text": "The story isn’t amazing, but the scenery is.  [Hinterland](https://www.netflix.com/title/70305043?s=i&trkid=13747225)\n",
+				"date_published": "2019-10-06T15:31:00-05:00",
+				"url": "https://braintube.com/2019/10/06/story-isnt-amazing.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/10/06/a-rare-moment.html",
+				
+				"content_html": "<p>A rare moment when these fosters are still enough for a picture.</p>\n\n<p><img src=\"uploads/2019/269df892f5.jpg\" width=\"600\" height=\"450\" alt=\"\"  \nstyle=\"height: auto;\" class=\"sunlit_image\"  /></p>\n\n<p><img src=\"uploads/2019/0ab03bdb69.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "A rare moment when these fosters are still enough for a picture. \n\n<img src=\"uploads/2019/269df892f5.jpg\" width=\"600\" height=\"450\" alt=\"\"  \nstyle=\"height: auto;\" class=\"sunlit_image\"  />\n\n<img src=\"uploads/2019/0ab03bdb69.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2019-10-06T15:15:00-05:00",
+				"url": "https://braintube.com/2019/10/06/a-rare-moment.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/09/22/pollen.html",
+				
+				"content_html": "<p>Pollen</p>\n\n<p><a href=\"https://braintube.com/uploads/2019/e378cb7bc1.jpg\"><img src=\"uploads/2019/e378cb7bc1.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Pollen\n\n<a href=\"https://braintube.com/uploads/2019/e378cb7bc1.jpg\"><img src=\"uploads/2019/e378cb7bc1.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-09-22T16:58:30-05:00",
+				"url": "https://braintube.com/2019/09/22/pollen.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/09/21/its-just-fake.html",
+				
+				"content_html": "<p>It&rsquo;s just &ldquo;fake fall&rdquo;, but a beautiful day for a morning ride to the local coffee shop.</p>\n\n<p><img src=\"uploads/2019/b77f6fe64f.jpg\" width=\"600\" height=\"450\" alt=\"\"\nstyle=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "It's just \"fake fall\", but a beautiful day for a morning ride to the local coffee shop.\n\n<img src=\"uploads/2019/b77f6fe64f.jpg\" width=\"600\" height=\"450\" alt=\"\"\nstyle=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2019-09-21T11:14:00-05:00",
+				"url": "https://braintube.com/2019/09/21/its-just-fake.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/09/14/onarch.html",
+				
+				"content_html": "<p>🦋onarch</p>\n\n<p><a href=\"https://braintube.com/uploads/2019/80b9db8b64.jpg\"><img src=\"uploads/2019/80b9db8b64.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "🦋onarch \n\n<a href=\"https://braintube.com/uploads/2019/80b9db8b64.jpg\"><img src=\"uploads/2019/80b9db8b64.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-09-14T15:22:35-05:00",
+				"url": "https://braintube.com/2019/09/14/onarch.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/09/11/i-was-just.html",
+				
+				"content_html": "<p>I was just wondering when GoGo Penguin was going to release something new. <a href=\"https://music.apple.com/us/album/time-lapse-city/1475468149?i=1475468150\">Time-Lapse City</a> 🎵🎵🎧</p>\n",
+				"content_text": "I was just wondering when GoGo Penguin was going to release something new. [Time-Lapse City](https://music.apple.com/us/album/time-lapse-city/1475468149?i=1475468150) 🎵🎵🎧\n",
+				"date_published": "2019-09-11T19:11:00-05:00",
+				"url": "https://braintube.com/2019/09/11/i-was-just.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/09/04/another-beautiful-sunset.html",
+				
+				"content_html": "<p>Another beautiful sunset, thanks to Dorian.</p>\n\n<p><a href=\"https://braintube.com/uploads/2019/ac1b5ca3db.jpg\"><img src=\"uploads/2019/ac1b5ca3db.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Another beautiful sunset, thanks to Dorian. \n\n<a href=\"https://braintube.com/uploads/2019/ac1b5ca3db.jpg\"><img src=\"uploads/2019/ac1b5ca3db.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-09-04T20:46:39-05:00",
+				"url": "https://braintube.com/2019/09/04/another-beautiful-sunset.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/09/04/couple-of-hummers.html",
+				
+				"content_html": "<p>Couple of hummers fueling up during the storm today. It&rsquo;s really hard to capture them well, which these photos don&rsquo;t really do.</p>\n\n<p><img src=\"uploads/2019/a59ebbcea1.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p><img src=\"uploads/2019/fbc330e752.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Couple of hummers fueling up during the storm today. It's really hard to capture them well, which these photos don't really do.\n\n<img src=\"uploads/2019/a59ebbcea1.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n<img src=\"uploads/2019/fbc330e752.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2019-09-04T15:15:00-05:00",
+				"url": "https://braintube.com/2019/09/04/couple-of-hummers.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/09/03/calm-sunset-before.html",
+				
+				"content_html": "<p>Calm sunset before Dorian hits tomorrow.</p>\n\n<p><a href=\"https://braintube.com/uploads/2019/121b0b286c.jpg\"><img src=\"uploads/2019/121b0b286c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Calm sunset before Dorian hits tomorrow. \n\n<a href=\"https://braintube.com/uploads/2019/121b0b286c.jpg\"><img src=\"uploads/2019/121b0b286c.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-09-03T20:34:00-05:00",
+				"url": "https://braintube.com/2019/09/03/calm-sunset-before.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/09/02/spent-the-day.html",
+				
+				"content_html": "<p>Spent the day doing final prep for Dorian. So much for the holiday.</p>\n",
+				"content_text": "Spent the day doing final prep for Dorian. So much for the holiday.\n",
+				"date_published": "2019-09-02T15:54:52-05:00",
+				"url": "https://braintube.com/2019/09/02/spent-the-day.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/08/19/one-of-our.html",
+				
+				"content_html": "<p>One of our foster kittens enjoying Oliver&rsquo;s tail</p>\n\n<p><img src=\"uploads/2019/5e17a6f43c.jpg\" width=\"337\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "One of our foster kittens enjoying Oliver's tail\n\n<img src=\"uploads/2019/5e17a6f43c.jpg\" width=\"337\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2019-08-19T16:27:00-05:00",
+				"url": "https://braintube.com/2019/08/19/one-of-our.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/08/19/i-know-they.html",
+				
+				"content_html": "<p>I know they are more efficient, but I do not like the new LED street lights going in everywhere.  Too harsh and bright. Give me the dim warm glow of older sodium lights.</p>\n\n<p><img src=\"uploads/2019/ab68570e27.jpg\" width=\"473\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I know they are more efficient, but I do not like the new LED street lights going in everywhere.  Too harsh and bright. Give me the dim warm glow of older sodium lights.\n\n<img src=\"uploads/2019/ab68570e27.jpg\" width=\"473\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-08-19T16:05:25-05:00",
+				"url": "https://braintube.com/2019/08/19/i-know-they.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/08/02/hope-the-new.html",
+				
+				"content_html": "<p>Hope the new Death Cab album turns out as good as the <a href=\"https://music.apple.com/us/album/kids-in-99/1473409295?i=1473409297\">trailer track</a> 🎵</p>\n",
+				"content_text": "Hope the new Death Cab album turns out as good as the [trailer track](https://music.apple.com/us/album/kids-in-99/1473409295?i=1473409297) 🎵\n",
+				"date_published": "2019-08-02T13:12:00-05:00",
+				"url": "https://braintube.com/2019/08/02/hope-the-new.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/08/01/dinner-out-with.html",
+				
+				"content_html": "<p>Dinner out with the wife yesterday to celebrate our 25th wedding anniversary. Kid in the picture isn&rsquo;t ours, but really wanted their picture taken.</p>\n\n<p><img src=\"uploads/2019/bc63d535d0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dinner out with the wife yesterday to celebrate our 25th wedding anniversary. Kid in the picture isn't ours, but really wanted their picture taken.\n\n<img src=\"uploads/2019/bc63d535d0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2019-08-01T09:58:00-05:00",
+				"url": "https://braintube.com/2019/08/01/dinner-out-with.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/07/31/feels-like-a.html",
+				
+				"content_html": "<p>Feels like a <a href=\"https://music.apple.com/us/album/immigrance/1448116436\">Snarky</a> kind of day.  🎵</p>\n",
+				"content_text": "Feels like a [Snarky](https://music.apple.com/us/album/immigrance/1448116436) kind of day.  🎵\n",
+				"date_published": "2019-07-31T08:40:36-05:00",
+				"url": "https://braintube.com/2019/07/31/feels-like-a.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/07/28/for-this-time.html",
+				
+				"content_html": "<p>For this time of year, some amazingly clear skies tonight. Decided to drag out the telescope and managed some nice views of Jupiter.</p>\n",
+				"content_text": "For this time of year, some amazingly clear skies tonight. Decided to drag out the telescope and managed some nice views of Jupiter. \n",
+				"date_published": "2019-07-28T20:45:55-05:00",
+				"url": "https://braintube.com/2019/07/28/for-this-time.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/07/26/unexpected-mushrooms-in.html",
+				
+				"content_html": "<p>Unexpected mushrooms on our afternoon walk. 📷</p>\n\n<p><a href=\"https://braintube.com/uploads/2019/e5a07134fb.jpg\"><img src=\"uploads/2019/e5a07134fb.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Unexpected mushrooms on our afternoon walk. 📷\n\n<a href=\"https://braintube.com/uploads/2019/e5a07134fb.jpg\"><img src=\"uploads/2019/e5a07134fb.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2019-07-26T16:58:00-05:00",
+				"url": "https://braintube.com/2019/07/26/unexpected-mushrooms-in.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/07/26/love-the-new.html",
+				
+				"content_html": "<p>Love the new <a href=\"https://braintube.com/photos\">photos page</a>! Seems like a great time to re-import most of my Instagram photos.</p>\n",
+				"content_text": "Love the new [photos page](https://braintube.com/photos)! Seems like a great time to re-import most of my Instagram photos.\n",
+				"date_published": "2019-07-26T14:59:42-05:00",
+				"url": "https://braintube.com/2019/07/26/love-the-new.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2019/07/15/this-weeks-abgt.html",
+				
+				"content_html": "<p>This week&rsquo;s ABGT is rather nice&hellip; 🎵</p>\n\n<p><a href=\"https://music.apple.com/us/album/group-therapy-339/1472888596\">ABGT 339</a></p>\n",
+				"content_text": "This week's ABGT is rather nice... 🎵\n\n[ABGT 339](https://music.apple.com/us/album/group-therapy-339/1472888596)\n",
+				"date_published": "2019-07-15T09:42:00-05:00",
+				"url": "https://braintube.com/2019/07/15/this-weeks-abgt.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/12/09/actual-beer-nerd.html",
+				
+				"content_html": "<p>Actual beer nerd in the wild</p>\n\n<p><img src=\"uploads/2019/cd54bf0582.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Actual beer nerd in the wild\n\n<img src=\"uploads/2019/cd54bf0582.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-12-09T10:10:00-05:00",
+				"url": "https://braintube.com/2017/12/09/actual-beer-nerd.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/12/09/beer-nerds.html",
+				
+				"content_html": "<p>Beer nerds</p>\n\n<p><img src=\"uploads/2019/5b42437820.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Beer nerds\n\n<img src=\"uploads/2019/5b42437820.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-12-09T09:00:34-05:00",
+				"url": "https://braintube.com/2017/12/09/beer-nerds.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/11/26/happy-gotcha-day.html",
+				
+				"content_html": "<p>Happy gotcha day!</p>\n\n<p><img src=\"uploads/2019/8a26c0fb0e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Happy gotcha day!\n\n<img src=\"uploads/2019/8a26c0fb0e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-11-26T16:07:11-05:00",
+				"url": "https://braintube.com/2017/11/26/happy-gotcha-day.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/11/11/may-have-over.html",
+				
+				"content_html": "<p>May have over done it this time.</p>\n\n<p><img src=\"uploads/2019/666f6d9e0b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "May have over done it this time.\n\n<img src=\"uploads/2019/666f6d9e0b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-11-11T13:01:24-05:00",
+				"url": "https://braintube.com/2017/11/11/may-have-over.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/11/02/amazing-sunset-this.html",
+				
+				"content_html": "<p>Amazing sunset. This picture does not do it justice.</p>\n\n<p><img src=\"uploads/2019/e6304905ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Amazing sunset. This picture does not do it justice.\n\n<img src=\"uploads/2019/e6304905ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-11-02T16:37:50-05:00",
+				"url": "https://braintube.com/2017/11/02/amazing-sunset-this.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/10/30/neighbors-probably-think.html",
+				
+				"content_html": "<p>Neighbors probably think we’re burning the place down.</p>\n\n<p><img src=\"uploads/2019/c855c16b27.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Neighbors probably think we’re burning the place down.\n\n<img src=\"uploads/2019/c855c16b27.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-10-30T16:14:29-05:00",
+				"url": "https://braintube.com/2017/10/30/neighbors-probably-think.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/05/25/034024.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/2eb42ea3f0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/2eb42ea3f0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-05-25T02:40:24-05:00",
+				"url": "https://braintube.com/2017/05/25/034024.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/05/24/thats-a-bunch.html",
+				
+				"content_html": "<p>That&rsquo;s a bunch of doughnuts</p>\n\n<p><img src=\"uploads/2019/1f1ae9d1af.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "That's a bunch of doughnuts\n\n<img src=\"uploads/2019/1f1ae9d1af.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-05-24T07:53:19-05:00",
+				"url": "https://braintube.com/2017/05/24/thats-a-bunch.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/05/23/more-ramen-for.html",
+				
+				"content_html": "<p>More ramen for lunch please.</p>\n\n<p><img src=\"uploads/2019/39b4914b02.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "More ramen for lunch please.\n\n<img src=\"uploads/2019/39b4914b02.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-05-23T12:03:16-05:00",
+				"url": "https://braintube.com/2017/05/23/more-ramen-for.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/05/22/plates-of-bacon.html",
+				
+				"content_html": "<p>Plates of bacon dipped in chocolate 😳</p>\n\n<p><img src=\"uploads/2019/2ff9a590ff.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Plates of bacon dipped in chocolate 😳\n\n<img src=\"uploads/2019/2ff9a590ff.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-05-22T15:03:59-05:00",
+				"url": "https://braintube.com/2017/05/22/plates-of-bacon.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/05/22/lunch.html",
+				
+				"content_html": "<p>Lunch.</p>\n\n<p><img src=\"uploads/2019/a791328e31.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lunch.\n\n<img src=\"uploads/2019/a791328e31.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-05-22T12:22:51-05:00",
+				"url": "https://braintube.com/2017/05/22/lunch.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/05/22/a-full-day.html",
+				
+				"content_html": "<p>A full day of coffee and conference.</p>\n\n<p><img src=\"uploads/2019/5250056c80.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A full day of coffee and conference.\n\n<img src=\"uploads/2019/5250056c80.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-05-22T06:17:18-05:00",
+				"url": "https://braintube.com/2017/05/22/a-full-day.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/05/11/mornings.html",
+				
+				"content_html": "<p>Mornings&hellip;&hellip;.</p>\n\n<p><img src=\"uploads/2019/1714410fae.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Mornings.......\n\n<img src=\"uploads/2019/1714410fae.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-05-11T03:48:48-05:00",
+				"url": "https://braintube.com/2017/05/11/mornings.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/04/29/too-bad-about.html",
+				
+				"content_html": "<p>Too bad about Columbus tho.</p>\n\n<p><img src=\"uploads/2019/7d24b84112.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Too bad about Columbus tho.\n\n<img src=\"uploads/2019/7d24b84112.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-04-29T09:41:12-05:00",
+				"url": "https://braintube.com/2017/04/29/too-bad-about.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/04/25/nice-downtown-field.html",
+				
+				"content_html": "<p>Nice downtown field. Same gnats.</p>\n\n<p><img src=\"uploads/2019/2d13ace6a0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Nice downtown field. Same gnats.\n\n<img src=\"uploads/2019/2d13ace6a0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-04-25T15:38:22-05:00",
+				"url": "https://braintube.com/2017/04/25/nice-downtown-field.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/04/21/this-was-amazing.html",
+				
+				"content_html": "<p>This was amazing</p>\n\n<p><img src=\"uploads/2019/da3b577c75.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This was amazing\n\n<img src=\"uploads/2019/da3b577c75.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-04-21T15:38:07-05:00",
+				"url": "https://braintube.com/2017/04/21/this-was-amazing.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/04/19/i-kinda-love.html",
+				
+				"content_html": "<p>I kinda love this Verde salad.</p>\n\n<p><img src=\"uploads/2019/7c030cdedf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I kinda love this Verde salad.\n\n<img src=\"uploads/2019/7c030cdedf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-04-19T14:55:52-05:00",
+				"url": "https://braintube.com/2017/04/19/i-kinda-love.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/04/19/motey-and-this.html",
+				
+				"content_html": "<p>Motey and this rug.</p>\n\n<p><img src=\"uploads/2019/d8827540fe.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Motey and this rug.\n\n<img src=\"uploads/2019/d8827540fe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-04-19T14:54:14-05:00",
+				"url": "https://braintube.com/2017/04/19/motey-and-this.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/04/13/103943.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/62366ddff4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/62366ddff4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-04-13T09:39:43-05:00",
+				"url": "https://braintube.com/2017/04/13/103943.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/04/11/112328.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/835ec2e38b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/835ec2e38b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-04-11T10:23:28-05:00",
+				"url": "https://braintube.com/2017/04/11/112328.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/04/11/094839.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/008d651513.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/008d651513.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-04-11T08:48:39-05:00",
+				"url": "https://braintube.com/2017/04/11/094839.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/04/01/caturday.html",
+				
+				"content_html": "<p>#caturday</p>\n\n<p><img src=\"uploads/2019/5abdcf94f4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "#caturday\n\n<img src=\"uploads/2019/5abdcf94f4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-04-01T06:14:30-05:00",
+				"url": "https://braintube.com/2017/04/01/caturday.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/03/25/softies-geechie-grits.html",
+				
+				"content_html": "<p>Softies, Geechie Grits, Tomato Pie, Green Beans and sweet Cornbread.</p>\n\n<p><img src=\"uploads/2019/f58423867c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Softies, Geechie Grits, Tomato Pie, Green Beans and sweet Cornbread.\n\n<img src=\"uploads/2019/f58423867c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-03-25T11:24:27-05:00",
+				"url": "https://braintube.com/2017/03/25/softies-geechie-grits.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/03/11/133639.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/72596dc412.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/72596dc412.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-03-11T12:36:39-05:00",
+				"url": "https://braintube.com/2017/03/11/133639.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/03/11/unexpectedly-nice.html",
+				
+				"content_html": "<p>Unexpectedly nice</p>\n\n<p><img src=\"uploads/2019/c4b25e2d69.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Unexpectedly nice\n\n<img src=\"uploads/2019/c4b25e2d69.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-03-11T12:34:44-05:00",
+				"url": "https://braintube.com/2017/03/11/unexpectedly-nice.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/02/18/band-and-doctor.html",
+				
+				"content_html": "<p>Band and Doctor Who? Yup, I was a huge nerd.</p>\n\n<p><img src=\"uploads/2019/6c35a554c9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Band and Doctor Who? Yup, I was a huge nerd.\n\n<img src=\"uploads/2019/6c35a554c9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-02-18T11:12:22-05:00",
+				"url": "https://braintube.com/2017/02/18/band-and-doctor.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2017/01/27/taking-one-for.html",
+				
+				"content_html": "<p>Taking one for the team. Pretty sure they hired the Burger King, King.</p>\n\n<p><img src=\"uploads/2019/6725a74661.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Taking one for the team. Pretty sure they hired the Burger King, King.\n\n<img src=\"uploads/2019/6725a74661.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2017-01-27T16:31:31-05:00",
+				"url": "https://braintube.com/2017/01/27/taking-one-for.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/12/25/tired-kitty.html",
+				
+				"content_html": "<p>Tired kitty.</p>\n\n<p><img src=\"uploads/2019/2d482d7705.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tired kitty.\n\n<img src=\"uploads/2019/2d482d7705.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-12-25T14:37:28-05:00",
+				"url": "https://braintube.com/2016/12/25/tired-kitty.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/12/10/ba-blackbeerd-and.html",
+				
+				"content_html": "<p>BA Blackbeerd and BBQ. All&hellip;.the B&rsquo;s.</p>\n\n<p><img src=\"uploads/2019/887e6f268b.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "BA Blackbeerd and BBQ. All....the B's.\n\n<img src=\"uploads/2019/887e6f268b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2016-12-10T09:27:20-05:00",
+				"url": "https://braintube.com/2016/12/10/ba-blackbeerd-and.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/11/26/134438.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/cbd3e345c7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/cbd3e345c7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-11-26T12:44:38-05:00",
+				"url": "https://braintube.com/2016/11/26/134438.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/11/06/122205.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/803d6e65af.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/803d6e65af.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-11-06T11:22:05-05:00",
+				"url": "https://braintube.com/2016/11/06/122205.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/11/05/full-set.html",
+				
+				"content_html": "<p>Full set 2016</p>\n\n<p><img src=\"uploads/2019/fdf7fcf8a1.jpg\" width=\"600\" height=\"537\" alt=\"\" /></p>\n",
+				"content_text": "Full set 2016\n\n<img src=\"uploads/2019/fdf7fcf8a1.jpg\" width=\"600\" height=\"537\" alt=\"\" />\n",
+				"date_published": "2016-11-05T13:21:59-05:00",
+				"url": "https://braintube.com/2016/11/05/full-set.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/10/29/122152.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/c8199104fe.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/c8199104fe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-10-29T11:21:52-05:00",
+				"url": "https://braintube.com/2016/10/29/122152.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/10/29/121927.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/a5a213c342.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/a5a213c342.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-10-29T11:19:27-05:00",
+				"url": "https://braintube.com/2016/10/29/121927.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/10/29/115425.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/113c2474d5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/113c2474d5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-10-29T10:54:25-05:00",
+				"url": "https://braintube.com/2016/10/29/115425.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/09/30/apparently-i-didnt.html",
+				
+				"content_html": "<p>Apparently I didn&rsquo;t wear enough camo.</p>\n\n<p><img src=\"uploads/2019/247a9bb2d0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Apparently I didn't wear enough camo.\n\n<img src=\"uploads/2019/247a9bb2d0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-09-30T16:06:47-05:00",
+				"url": "https://braintube.com/2016/09/30/apparently-i-didnt.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/09/04/three-extra-dogs.html",
+				
+				"content_html": "<p>Three extra dogs in this house for a week. Motey is not amused.</p>\n\n<p><img src=\"uploads/2019/ef76f61cab.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Three extra dogs in this house for a week. Motey is not amused.\n\n<img src=\"uploads/2019/ef76f61cab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-09-04T04:19:43-05:00",
+				"url": "https://braintube.com/2016/09/04/three-extra-dogs.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/08/30/play-ball.html",
+				
+				"content_html": "<p>Play ball!!! 💤</p>\n\n<p><img src=\"uploads/2019/cd0f233905.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Play ball!!! 💤\n\n<img src=\"uploads/2019/cd0f233905.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-08-30T15:06:18-05:00",
+				"url": "https://braintube.com/2016/08/30/play-ball.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/08/28/going-for-meets.html",
+				
+				"content_html": "<p>Going for 2001 meets The Shining, or something. This hotel is interesting&hellip;.</p>\n\n<p><img src=\"uploads/2019/f46adabdaa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Going for 2001 meets The Shining, or something. This hotel is interesting....\n\n<img src=\"uploads/2019/f46adabdaa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-08-28T13:37:45-05:00",
+				"url": "https://braintube.com/2016/08/28/going-for-meets.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/08/27/095708.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/f1b6d5d350.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/f1b6d5d350.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-08-27T08:57:08-05:00",
+				"url": "https://braintube.com/2016/08/27/095708.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/08/27/the-best-downtown.html",
+				
+				"content_html": "<p>The best downtown alley</p>\n\n<p><img src=\"uploads/2019/724aee4fa5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The best downtown alley\n\n<img src=\"uploads/2019/724aee4fa5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-08-27T08:51:31-05:00",
+				"url": "https://braintube.com/2016/08/27/the-best-downtown.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/08/27/the-redcoats-are.html",
+				
+				"content_html": "<p>The Redcoats are <em>going</em>?</p>\n\n<p><img src=\"uploads/2019/dda3606510.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The Redcoats are *going*?\n\n<img src=\"uploads/2019/dda3606510.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-08-27T08:49:38-05:00",
+				"url": "https://braintube.com/2016/08/27/the-redcoats-are.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/08/25/here-we-go.html",
+				
+				"content_html": "<p>Here we go again. At least no gnats right now. I guess the heat fried them all.</p>\n\n<p><img src=\"uploads/2019/dde17e220f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Here we go again. At least no gnats right now. I guess the heat fried them all.\n\n<img src=\"uploads/2019/dde17e220f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-08-25T15:15:53-05:00",
+				"url": "https://braintube.com/2016/08/25/here-we-go.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/07/20/165511.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/2a95aeb1d3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/2a95aeb1d3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-07-20T15:55:11-05:00",
+				"url": "https://braintube.com/2016/07/20/165511.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/07/20/151549.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/248ff2be98.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/248ff2be98.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-07-20T14:15:49-05:00",
+				"url": "https://braintube.com/2016/07/20/151549.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/06/08/berry-basket.html",
+				
+				"content_html": "<p>Berry basket</p>\n\n<p><img src=\"uploads/2019/a3b040758a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Berry basket\n\n<img src=\"uploads/2019/a3b040758a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-06-08T14:43:00-05:00",
+				"url": "https://braintube.com/2016/06/08/berry-basket.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/06/08/blueberry-picking-with.html",
+				
+				"content_html": "<p>Blueberry picking with the family.</p>\n\n<p><img src=\"uploads/2019/0ca2264ca4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Blueberry picking with the family.\n\n<img src=\"uploads/2019/0ca2264ca4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-06-08T14:17:08-05:00",
+				"url": "https://braintube.com/2016/06/08/blueberry-picking-with.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/06/04/sup.html",
+				
+				"content_html": "<p>Sup?</p>\n\n<p><img src=\"uploads/2019/e1b0d20b26.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sup?\n\n<img src=\"uploads/2019/e1b0d20b26.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-06-04T08:10:48-05:00",
+				"url": "https://braintube.com/2016/06/04/sup.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/05/14/yum-pinecones.html",
+				
+				"content_html": "<p>Yum. Pinecones.</p>\n\n<p><img src=\"uploads/2019/45514b6629.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yum. Pinecones.\n\n<img src=\"uploads/2019/45514b6629.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-05-14T10:20:13-05:00",
+				"url": "https://braintube.com/2016/05/14/yum-pinecones.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/05/08/mothers-and-babies.html",
+				
+				"content_html": "<p>Mothers and babies</p>\n\n<p><img src=\"uploads/2019/59ab8ba6a3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Mothers and babies\n\n<img src=\"uploads/2019/59ab8ba6a3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-05-08T13:18:35-05:00",
+				"url": "https://braintube.com/2016/05/08/mothers-and-babies.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/04/16/man-softies-are.html",
+				
+				"content_html": "<p>Man softies are good.</p>\n\n<p><img src=\"uploads/2019/82dd7f696a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Man softies are good.\n\n<img src=\"uploads/2019/82dd7f696a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-04-16T15:03:00-05:00",
+				"url": "https://braintube.com/2016/04/16/man-softies-are.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/04/09/alton-brown-live.html",
+				
+				"content_html": "<p>Alton Brown Live.</p>\n\n<p><img src=\"uploads/2019/b7555d3265.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Alton Brown Live.\n\n<img src=\"uploads/2019/b7555d3265.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-04-09T07:53:37-05:00",
+				"url": "https://braintube.com/2016/04/09/alton-brown-live.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/04/09/first-game-of.html",
+				
+				"content_html": "<p>First game of the year</p>\n\n<p><img src=\"uploads/2019/76a806be74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "First game of the year\n\n<img src=\"uploads/2019/76a806be74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-04-09T07:50:30-05:00",
+				"url": "https://braintube.com/2016/04/09/first-game-of.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/04/03/sunday-dog-walk.html",
+				
+				"content_html": "<p>Sunday dog walk.</p>\n\n<p><img src=\"uploads/2019/3f9f0856eb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sunday dog walk.\n\n<img src=\"uploads/2019/3f9f0856eb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-04-03T09:26:26-05:00",
+				"url": "https://braintube.com/2016/04/03/sunday-dog-walk.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/04/03/084453.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/26771cfba2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/26771cfba2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-04-03T07:44:53-05:00",
+				"url": "https://braintube.com/2016/04/03/084453.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/03/27/documenting-the-tie.html",
+				
+				"content_html": "<p>Documenting the tie.</p>\n\n<p><img src=\"uploads/2019/46a8df47f3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Documenting the tie.\n\n<img src=\"uploads/2019/46a8df47f3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-03-27T08:33:08-05:00",
+				"url": "https://braintube.com/2016/03/27/documenting-the-tie.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/03/27/eggzzzz.html",
+				
+				"content_html": "<p>Eggzzzz</p>\n\n<p><img src=\"uploads/2019/b5d8d9c381.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Eggzzzz\n\n<img src=\"uploads/2019/b5d8d9c381.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-03-27T05:47:39-05:00",
+				"url": "https://braintube.com/2016/03/27/eggzzzz.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/03/19/plum-blossoms.html",
+				
+				"content_html": "<p>Plum blossoms.</p>\n\n<p><img src=\"uploads/2019/a1aa912b07.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Plum blossoms.\n\n<img src=\"uploads/2019/a1aa912b07.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-03-19T15:06:56-05:00",
+				"url": "https://braintube.com/2016/03/19/plum-blossoms.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/03/13/obligatory-sunset.html",
+				
+				"content_html": "<p>Obligatory sunset.</p>\n\n<p><img src=\"uploads/2019/6e4af60d3e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Obligatory sunset.\n\n<img src=\"uploads/2019/6e4af60d3e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-03-13T16:25:44-05:00",
+				"url": "https://braintube.com/2016/03/13/obligatory-sunset.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/03/12/avoiding-the-gnats.html",
+				
+				"content_html": "<p>Avoiding the gnats. &ldquo;Soccer&rdquo; practice.</p>\n\n<p><img src=\"uploads/2019/4a2fef3bd1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Avoiding the gnats. \"Soccer\" practice.\n\n<img src=\"uploads/2019/4a2fef3bd1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-03-12T07:25:17-05:00",
+				"url": "https://braintube.com/2016/03/12/avoiding-the-gnats.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/03/09/football-practice-also.html",
+				
+				"content_html": "<p>Football practice. Also known as, feeding the gnats.</p>\n\n<p><img src=\"uploads/2019/25feb62070.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Football practice. Also known as, feeding the gnats.\n\n<img src=\"uploads/2019/25feb62070.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-03-09T15:32:59-05:00",
+				"url": "https://braintube.com/2016/03/09/football-practice-also.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/03/05/104207.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/26bc103a58.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/26bc103a58.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-03-05T09:42:07-05:00",
+				"url": "https://braintube.com/2016/03/05/104207.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/01/12/this-place-is.html",
+				
+				"content_html": "<p>This place is amazing. The largest brewery/brewpub I&rsquo;ve ever visited.</p>\n\n<p><img src=\"uploads/2019/593594ea6d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This place is amazing. The largest brewery/brewpub I've ever visited.\n\n<img src=\"uploads/2019/593594ea6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-01-12T16:03:03-05:00",
+				"url": "https://braintube.com/2016/01/12/this-place-is.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2016/01/12/wasnt-too-bad.html",
+				
+				"content_html": "<p>Wasn&rsquo;t too bad until it started to rain.</p>\n\n<p><img src=\"uploads/2019/9c89e90892.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Wasn't too bad until it started to rain.\n\n<img src=\"uploads/2019/9c89e90892.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2016-01-12T16:00:06-05:00",
+				"url": "https://braintube.com/2016/01/12/wasnt-too-bad.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/12/04/tonights-tasting-list.html",
+				
+				"content_html": "<p>Tonight&rsquo;s tasting list.</p>\n\n<p><img src=\"uploads/2019/60ad8010cf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tonight's tasting list.\n\n<img src=\"uploads/2019/60ad8010cf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-12-04T16:12:00-05:00",
+				"url": "https://braintube.com/2015/12/04/tonights-tasting-list.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/12/04/home-brew.html",
+				
+				"content_html": "<p>Home brew.</p>\n\n<p><img src=\"uploads/2019/9d1cb71c77.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Home brew.\n\n<img src=\"uploads/2019/9d1cb71c77.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-12-04T16:10:35-05:00",
+				"url": "https://braintube.com/2015/12/04/home-brew.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/12/04/pick-a-beer.html",
+				
+				"content_html": "<p>Pick a beer&hellip;. any beer.</p>\n\n<p><img src=\"uploads/2019/c7b13c90c6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Pick a beer.... any beer.\n\n<img src=\"uploads/2019/c7b13c90c6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-12-04T15:51:14-05:00",
+				"url": "https://braintube.com/2015/12/04/pick-a-beer.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/11/29/christmas-tree-hunting.html",
+				
+				"content_html": "<p>Christmas tree hunting</p>\n\n<p><img src=\"uploads/2019/a3362d0839.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Christmas tree hunting\n\n<img src=\"uploads/2019/a3362d0839.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-11-29T14:19:54-05:00",
+				"url": "https://braintube.com/2015/11/29/christmas-tree-hunting.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/11/21/old-school.html",
+				
+				"content_html": "<p>Old school</p>\n\n<p><img src=\"uploads/2019/454377f2b8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Old school\n\n<img src=\"uploads/2019/454377f2b8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-11-21T13:22:40-05:00",
+				"url": "https://braintube.com/2015/11/21/old-school.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/11/16/nicely-redone.html",
+				
+				"content_html": "<p>Nicely redone.</p>\n\n<p><img src=\"uploads/2019/0a3840ecab.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Nicely redone.\n\n<img src=\"uploads/2019/0a3840ecab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-11-16T10:27:08-05:00",
+				"url": "https://braintube.com/2015/11/16/nicely-redone.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/11/11/something-to-admire.html",
+				
+				"content_html": "<p>Something to admire while sitting in traffic</p>\n\n<p><img src=\"uploads/2019/475c5bbf3f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Something to admire while sitting in traffic\n\n<img src=\"uploads/2019/475c5bbf3f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-11-11T16:07:25-05:00",
+				"url": "https://braintube.com/2015/11/11/something-to-admire.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/11/10/emanuel.html",
+				
+				"content_html": "<p>Emanuel</p>\n\n<p><img src=\"uploads/2019/f74c8a8671.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Emanuel\n\n<img src=\"uploads/2019/f74c8a8671.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-11-10T09:20:16-05:00",
+				"url": "https://braintube.com/2015/11/10/emanuel.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/11/08/skatingsorta.html",
+				
+				"content_html": "<p>Skating&hellip;sorta.</p>\n\n<p><img src=\"uploads/2019/1d8f9334a5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Skating...sorta.\n\n<img src=\"uploads/2019/1d8f9334a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-11-08T11:22:39-05:00",
+				"url": "https://braintube.com/2015/11/08/skatingsorta.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/09/19/flowertowns-funky-firkin.html",
+				
+				"content_html": "<p>Flowertown&rsquo;s Funky Firkin Fest</p>\n\n<p><img src=\"uploads/2019/fb87966c53.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Flowertown's Funky Firkin Fest\n\n<img src=\"uploads/2019/fb87966c53.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-09-19T10:44:06-05:00",
+				"url": "https://braintube.com/2015/09/19/flowertowns-funky-firkin.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/08/25/wienermobile.html",
+				
+				"content_html": "<p>Wienermobile</p>\n\n<p><img src=\"uploads/2019/45660919e1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Wienermobile\n\n<img src=\"uploads/2019/45660919e1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-08-25T15:27:23-05:00",
+				"url": "https://braintube.com/2015/08/25/wienermobile.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/07/14/one-of-the.html",
+				
+				"content_html": "<p>One of the many reason I love Asheville. #wickedweed</p>\n\n<p><img src=\"uploads/2019/abdfa1f895.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "One of the many reason I love Asheville. #wickedweed\n\n<img src=\"uploads/2019/abdfa1f895.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-07-14T05:05:36-05:00",
+				"url": "https://braintube.com/2015/07/14/one-of-the.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/06/18/deschutes.html",
+				
+				"content_html": "<p>Deschutes</p>\n\n<p><img src=\"uploads/2019/41f6b39541.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Deschutes\n\n<img src=\"uploads/2019/41f6b39541.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-06-18T17:04:42-05:00",
+				"url": "https://braintube.com/2015/06/18/deschutes.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/06/18/portlandia.html",
+				
+				"content_html": "<p>Portlandia</p>\n\n<p><img src=\"uploads/2019/b715011612.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Portlandia\n\n<img src=\"uploads/2019/b715011612.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-06-18T12:07:09-05:00",
+				"url": "https://braintube.com/2015/06/18/portlandia.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/06/18/portland-office-is.html",
+				
+				"content_html": "<p>Portland office is the best office. Too bad about that TV.</p>\n\n<p><img src=\"uploads/2019/b31bde2992.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Portland office is the best office. Too bad about that TV.\n\n<img src=\"uploads/2019/b31bde2992.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-06-18T07:27:48-05:00",
+				"url": "https://braintube.com/2015/06/18/portland-office-is.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/06/16/192244.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/cad8322964.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/cad8322964.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-06-16T18:22:44-05:00",
+				"url": "https://braintube.com/2015/06/16/192244.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/06/16/192013.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/72a4eecfd1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/72a4eecfd1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-06-16T18:20:13-05:00",
+				"url": "https://braintube.com/2015/06/16/192013.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/06/16/dont-usually-post.html",
+				
+				"content_html": "<p>Don&rsquo;t usually post food pics, but man.</p>\n\n<p><img src=\"uploads/2019/90f974c2e5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Don't usually post food pics, but man.\n\n<img src=\"uploads/2019/90f974c2e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-06-16T17:27:19-05:00",
+				"url": "https://braintube.com/2015/06/16/dont-usually-post.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/06/10/164535.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/5a99e9dedf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/5a99e9dedf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-06-10T15:45:35-05:00",
+				"url": "https://braintube.com/2015/06/10/164535.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/06/04/farewell-reston-office.html",
+				
+				"content_html": "<p>Farewell Reston office</p>\n\n<p><img src=\"uploads/2019/293ace6eb0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Farewell Reston office\n\n<img src=\"uploads/2019/293ace6eb0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-06-04T18:31:54-05:00",
+				"url": "https://braintube.com/2015/06/04/farewell-reston-office.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/05/24/still-a-bit.html",
+				
+				"content_html": "<p>Still a bit cool for a pool day.</p>\n\n<p><img src=\"uploads/2019/b832cc8910.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Still a bit cool for a pool day.\n\n<img src=\"uploads/2019/b832cc8910.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-05-24T10:26:47-05:00",
+				"url": "https://braintube.com/2015/05/24/still-a-bit.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/05/22/rather-nice-evening.html",
+				
+				"content_html": "<p>Rather nice evening out tonight.</p>\n\n<p><img src=\"uploads/2019/5bbf02e139.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rather nice evening out tonight.\n\n<img src=\"uploads/2019/5bbf02e139.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-05-22T17:11:22-05:00",
+				"url": "https://braintube.com/2015/05/22/rather-nice-evening.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/05/22/180916.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/053a1b4134.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/053a1b4134.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-05-22T17:09:16-05:00",
+				"url": "https://braintube.com/2015/05/22/180916.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/05/02/111534.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/ef5fd0e638.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/ef5fd0e638.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-05-02T10:15:34-05:00",
+				"url": "https://braintube.com/2015/05/02/111534.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/05/02/102312.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/54d7cf8a18.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/54d7cf8a18.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-05-02T09:23:12-05:00",
+				"url": "https://braintube.com/2015/05/02/102312.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/05/02/101320.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/2cf49a0aa8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/2cf49a0aa8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-05-02T09:13:20-05:00",
+				"url": "https://braintube.com/2015/05/02/101320.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/04/19/too-bad-about.html",
+				
+				"content_html": "<p>Too bad about that bag.</p>\n\n<p><img src=\"uploads/2019/1ee3fe9a5c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Too bad about that bag.\n\n<img src=\"uploads/2019/1ee3fe9a5c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-04-19T13:00:45-05:00",
+				"url": "https://braintube.com/2015/04/19/too-bad-about.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/04/18/so-this-happened.html",
+				
+				"content_html": "<p>So, this happened. Hopefully not as bad as the bacon doughnut.</p>\n\n<p><img src=\"uploads/2019/061ac027ef.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "So, this happened. Hopefully not as bad as the bacon doughnut.\n\n<img src=\"uploads/2019/061ac027ef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-04-18T10:06:23-05:00",
+				"url": "https://braintube.com/2015/04/18/so-this-happened.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/04/16/dueling-updates.html",
+				
+				"content_html": "<p>Dueling updates.</p>\n\n<p><img src=\"uploads/2019/55734521c1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dueling updates.\n\n<img src=\"uploads/2019/55734521c1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-04-16T17:09:01-05:00",
+				"url": "https://braintube.com/2015/04/16/dueling-updates.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/04/12/rd-snake-and.html",
+				
+				"content_html": "<p>3rd snake and 1st poisonous of the season.</p>\n\n<p><img src=\"uploads/2019/d4a8a535ab.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "3rd snake and 1st poisonous of the season.\n\n<img src=\"uploads/2019/d4a8a535ab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-04-12T14:26:12-05:00",
+				"url": "https://braintube.com/2015/04/12/rd-snake-and.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/04/04/maybe-get-a.html",
+				
+				"content_html": "<p>Maybe get a smartphone.</p>\n\n<p><img src=\"uploads/2019/60908bee64.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Maybe get a smartphone.\n\n<img src=\"uploads/2019/60908bee64.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-04-04T13:28:32-05:00",
+				"url": "https://braintube.com/2015/04/04/maybe-get-a.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/04/04/egzzz.html",
+				
+				"content_html": "<p>Egzzz</p>\n\n<p><img src=\"uploads/2019/e2c1bc4d68.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Egzzz\n\n<img src=\"uploads/2019/e2c1bc4d68.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-04-04T07:19:09-05:00",
+				"url": "https://braintube.com/2015/04/04/egzzz.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/04/01/big-nutsand-bolts.html",
+				
+				"content_html": "<p>Big nuts&hellip;..and bolts.</p>\n\n<p><img src=\"uploads/2019/31591be848.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Big nuts.....and bolts.\n\n<img src=\"uploads/2019/31591be848.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-04-01T08:17:50-05:00",
+				"url": "https://braintube.com/2015/04/01/big-nutsand-bolts.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/04/01/motey.html",
+				
+				"content_html": "<p>Motey</p>\n\n<p><img src=\"uploads/2019/5d2be56a29.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Motey\n\n<img src=\"uploads/2019/5d2be56a29.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-04-01T04:27:14-05:00",
+				"url": "https://braintube.com/2015/04/01/motey.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/03/17/yummy-burnt-pizza.html",
+				
+				"content_html": "<p>Yummy burn&rsquo;t pizza.</p>\n\n<p><img src=\"uploads/2019/c9cc955235.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yummy burn't pizza.\n\n<img src=\"uploads/2019/c9cc955235.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-03-17T14:28:57-05:00",
+				"url": "https://braintube.com/2015/03/17/yummy-burnt-pizza.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/03/17/good-morning.html",
+				
+				"content_html": "<p>Good morning</p>\n\n<p><img src=\"uploads/2019/99c83e0a4f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Good morning\n\n<img src=\"uploads/2019/99c83e0a4f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-03-17T03:58:25-05:00",
+				"url": "https://braintube.com/2015/03/17/good-morning.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2015/03/15/i-am-bored.html",
+				
+				"content_html": "<p>I am bored.</p>\n\n<p><img src=\"uploads/2019/0fbfbe1203.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I am bored.\n\n<img src=\"uploads/2019/0fbfbe1203.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2015-03-15T09:10:23-05:00",
+				"url": "https://braintube.com/2015/03/15/i-am-bored.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2014/12/20/material-design.html",
+				
+				"content_html": "<p>Material Design</p>\n\n<p><img src=\"uploads/2019/ff897250f5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Material Design\n\n<img src=\"uploads/2019/ff897250f5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2014-12-20T11:07:08-05:00",
+				"url": "https://braintube.com/2014/12/20/material-design.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2014/12/20/102354.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/aade6cd4e4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/aade6cd4e4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2014-12-20T09:23:54-05:00",
+				"url": "https://braintube.com/2014/12/20/102354.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2014/12/18/its-a-hokey.html",
+				
+				"content_html": "<p>It&rsquo;s a hokey hokey Christmas</p>\n\n<p><img src=\"uploads/2019/d71ca91907.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It's a hokey hokey Christmas\n\n<img src=\"uploads/2019/d71ca91907.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2014-12-18T16:07:00-05:00",
+				"url": "https://braintube.com/2014/12/18/its-a-hokey.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2014/12/18/redhat.html",
+				
+				"content_html": "<p>Redhat 7.0</p>\n\n<p><img src=\"uploads/2019/03f272466a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Redhat 7.0\n\n<img src=\"uploads/2019/03f272466a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2014-12-18T06:04:51-05:00",
+				"url": "https://braintube.com/2014/12/18/redhat.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/10/20/io-moth-caterpillar.html",
+				
+				"content_html": "<p>Io moth caterpillar.</p>\n\n<p><img src=\"uploads/2019/8e6da52e6a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Io moth caterpillar.\n\n<img src=\"uploads/2019/8e6da52e6a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-10-20T14:23:09-05:00",
+				"url": "https://braintube.com/2012/10/20/io-moth-caterpillar.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/10/20/baby-squirrel.html",
+				
+				"content_html": "<p>Baby squirrel.</p>\n\n<p><img src=\"uploads/2019/3997477138.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Baby squirrel.\n\n<img src=\"uploads/2019/3997477138.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-10-20T14:21:44-05:00",
+				"url": "https://braintube.com/2012/10/20/baby-squirrel.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/10/20/gator-parts.html",
+				
+				"content_html": "<p>Gator parts.</p>\n\n<p><img src=\"uploads/2019/9e4b26339a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Gator parts.\n\n<img src=\"uploads/2019/9e4b26339a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-10-20T14:20:21-05:00",
+				"url": "https://braintube.com/2012/10/20/gator-parts.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/10/20/a-couple-of.html",
+				
+				"content_html": "<p>A couple of stickers.</p>\n\n<p><img src=\"uploads/2019/e55148fd63.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A couple of stickers.\n\n<img src=\"uploads/2019/e55148fd63.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-10-20T14:18:31-05:00",
+				"url": "https://braintube.com/2012/10/20/a-couple-of.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/07/05/132751.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/537628589d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/537628589d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-07-05T12:27:51-05:00",
+				"url": "https://braintube.com/2012/07/05/132751.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/06/28/134609.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/c678c3ed1a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/c678c3ed1a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-06-28T12:46:09-05:00",
+				"url": "https://braintube.com/2012/06/28/134609.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/06/09/huba-huba.html",
+				
+				"content_html": "<p>Huba huba</p>\n\n<p><img src=\"uploads/2019/17d7b7a571.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Huba huba\n\n<img src=\"uploads/2019/17d7b7a571.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-06-09T14:45:53-05:00",
+				"url": "https://braintube.com/2012/06/09/huba-huba.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/06/02/only-the-top.html",
+				
+				"content_html": "<p>Only the top shelf, Costco for this party.</p>\n\n<p><img src=\"uploads/2019/e010198287.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Only the top shelf, Costco for this party.\n\n<img src=\"uploads/2019/e010198287.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-06-02T09:25:06-05:00",
+				"url": "https://braintube.com/2012/06/02/only-the-top.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/05/18/coast-dave-brown.html",
+				
+				"content_html": "<p>Coast Dave Brown</p>\n\n<p><img src=\"uploads/2019/1a746a8559.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Coast Dave Brown\n\n<img src=\"uploads/2019/1a746a8559.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-05-18T14:48:48-05:00",
+				"url": "https://braintube.com/2012/05/18/coast-dave-brown.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/05/07/sleepy-kitty.html",
+				
+				"content_html": "<p>Sleepy kitty.</p>\n\n<p><img src=\"uploads/2019/791127cc5b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Sleepy kitty.\n\n<img src=\"uploads/2019/791127cc5b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-05-07T04:05:19-05:00",
+				"url": "https://braintube.com/2012/05/07/sleepy-kitty.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/05/02/171010.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/943bc0f5ea.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/943bc0f5ea.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-05-02T16:10:10-05:00",
+				"url": "https://braintube.com/2012/05/02/171010.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/05/02/only-computer-mag.html",
+				
+				"content_html": "<p>Only computer mag. worth reading in B&amp;N now.</p>\n\n<p><img src=\"uploads/2019/4a4e5c9ea8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Only computer mag. worth reading in B&N now.\n\n<img src=\"uploads/2019/4a4e5c9ea8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-05-02T14:40:57-05:00",
+				"url": "https://braintube.com/2012/05/02/only-computer-mag.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/25/going-to-finish.html",
+				
+				"content_html": "<p>Going to finish the race before it starts.</p>\n\n<p><img src=\"uploads/2019/7faba1ac3d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Going to finish the race before it starts.\n\n<img src=\"uploads/2019/7faba1ac3d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-25T12:54:57-05:00",
+				"url": "https://braintube.com/2012/04/25/going-to-finish.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/22/lost-eggs.html",
+				
+				"content_html": "<p>Lost eggs</p>\n\n<p><img src=\"uploads/2019/964b25f85d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lost eggs\n\n<img src=\"uploads/2019/964b25f85d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-22T11:03:36-05:00",
+				"url": "https://braintube.com/2012/04/22/lost-eggs.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/22/103251.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/557af0a5a6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/557af0a5a6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-22T09:32:51-05:00",
+				"url": "https://braintube.com/2012/04/22/103251.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/21/120559.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/7110a73da8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/7110a73da8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-21T11:05:59-05:00",
+				"url": "https://braintube.com/2012/04/21/120559.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/20/151111.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/79c41094e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/79c41094e2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-20T14:11:11-05:00",
+				"url": "https://braintube.com/2012/04/20/151111.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/14/130341.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/3856fca115.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/3856fca115.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-14T12:03:41-05:00",
+				"url": "https://braintube.com/2012/04/14/130341.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/14/125427.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/6c4b6390b9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/6c4b6390b9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-14T11:54:27-05:00",
+				"url": "https://braintube.com/2012/04/14/125427.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/14/125117.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/bfaed11bbd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/bfaed11bbd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-14T11:51:17-05:00",
+				"url": "https://braintube.com/2012/04/14/125117.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/14/124251.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/6e1f4bd659.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/6e1f4bd659.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-14T11:42:51-05:00",
+				"url": "https://braintube.com/2012/04/14/124251.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/14/124106.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/c40999d4f9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/c40999d4f9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-14T11:41:06-05:00",
+				"url": "https://braintube.com/2012/04/14/124106.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/14/121610.html",
+				
+				"content_html": "<p><img src=\"uploads/2019/38ffbcea7f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2019/38ffbcea7f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-14T11:16:10-05:00",
+				"url": "https://braintube.com/2012/04/14/121610.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/14/bucket-is-full.html",
+				
+				"content_html": "<p>Bucket is full.</p>\n\n<p><img src=\"uploads/2019/c76e9a4dac.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Bucket is full.\n\n<img src=\"uploads/2019/c76e9a4dac.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-14T09:57:12-05:00",
+				"url": "https://braintube.com/2012/04/14/bucket-is-full.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/14/strawberry-picking.html",
+				
+				"content_html": "<p>Strawberry picking.</p>\n\n<p><img src=\"uploads/2019/748dda02dc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Strawberry picking.\n\n<img src=\"uploads/2019/748dda02dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-14T09:45:21-05:00",
+				"url": "https://braintube.com/2012/04/14/strawberry-picking.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/14/the-flavor-is.html",
+				
+				"content_html": "<p>The flavor is in the meat.</p>\n\n<p><img src=\"uploads/2019/a02178161f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The flavor is in the meat.\n\n<img src=\"uploads/2019/a02178161f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-14T09:29:05-05:00",
+				"url": "https://braintube.com/2012/04/14/the-flavor-is.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mcg.micro.blog/2012/04/08/not-dign-it.html",
+				
+				"content_html": "<p>Not dig&rsquo;n it.</p>\n\n<p><img src=\"uploads/2019/e853de4a83.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Not dig'n it.\n\n<img src=\"uploads/2019/e853de4a83.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2012-04-08T10:21:07-05:00",
+				"url": "https://braintube.com/2012/04/08/not-dign-it.html",
+				"tags": ["Photos"]
+			}
+	]
+}
