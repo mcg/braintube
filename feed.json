@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mcg.micro.blog/2022/03/02/epic-games-is.html",
+				
+				"content_html": "<p>Epic Games is buying Bandcamp. This is terrible news. <a href=\"https://www.theverge.com/2022/3/2/22958416/epic-games-bandcamp-music-store-acquisition\">www.theverge.com/2022/3/2/&hellip;</a></p>\n",
+				"content_text": "Epic Games is buying Bandcamp. This is terrible news. [www.theverge.com/2022/3/2/...](https://www.theverge.com/2022/3/2/22958416/epic-games-bandcamp-music-store-acquisition)\n",
+				"date_published": "2022-03-02T15:34:37-05:00",
+				"url": "https://braintube.com/2022/03/02/epic-games-is.html"
+			},
+			{
 				"id": "http://mcg.micro.blog/2022/02/12/probably-time-to.html",
 				
 				"content_html": "<p>Probably time to mark Firefox as “done” and move on, <a href=\"https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/\">blog.mozilla.org/en/mozill&hellip;</a></p>\n",
