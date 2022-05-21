@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mcg.micro.blog/2022/05/20/sad-to-read.html",
+				
+				"content_html": "<p>Sad to read that <a href=\"https://www.bbc.com/news/entertainment-arts-61514850\">Vangelis</a> passed away. His music definitely influenced my interest in synths and music in general. 🎶</p>\n",
+				"content_text": "Sad to read that [Vangelis](https://www.bbc.com/news/entertainment-arts-61514850) passed away. His music definitely influenced my interest in synths and music in general. 🎶\n",
+				"date_published": "2022-05-20T08:01:44-04:00",
+				"url": "https://braintube.com/2022/05/20/sad-to-read.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2022/05/16/the-last-android.html",
+				
+				"content_html": "<p>The last Android device I purchased was a Nexus 6p. It was the last of the Nexus line and marked a shift for how Google does devices. It was also the beginning of my &ldquo;degoogling&rdquo;. Anyhow, the 6p wasn&rsquo;t a very good device and most of them started boot looping, mine had not yet experienced this, but Google was nice enough to send me a Pixel 1 replacement. I&rsquo;ve had this mostly in a drawer as a backup device since then. Today I decided to wipe and replace Google Android with <a href=\"https://lineageos.org/\">LineageOS</a>. Lineage has great instructions and the process was mostly painless. Now I have a mostly Google free Android device(no gapps) and have been installing the apps I need from <a href=\"https://f-droid.org/\">F-Droid</a>. I also spun up <a href=\"https://syncthing.net/\">Syncthing</a> and used KDEConnect for some clipboard sharing to get things setup,. These are great tools for local cross platform file sharing and device control.</p>\n",
+				"content_text": "The last Android device I purchased was a Nexus 6p. It was the last of the Nexus line and marked a shift for how Google does devices. It was also the beginning of my \"degoogling\". Anyhow, the 6p wasn't a very good device and most of them started boot looping, mine had not yet experienced this, but Google was nice enough to send me a Pixel 1 replacement. I've had this mostly in a drawer as a backup device since then. Today I decided to wipe and replace Google Android with [LineageOS](https://lineageos.org/). Lineage has great instructions and the process was mostly painless. Now I have a mostly Google free Android device(no gapps) and have been installing the apps I need from [F-Droid](https://f-droid.org/). I also spun up [Syncthing](https://syncthing.net/) and used KDEConnect for some clipboard sharing to get things setup,. These are great tools for local cross platform file sharing and device control.\n",
+				"date_published": "2022-05-16T21:38:28-04:00",
+				"url": "https://braintube.com/2022/05/16/the-last-android.html"
+			},
+			{
 				"id": "http://mcg.micro.blog/2022/05/06/first-episode-of.html",
 				
 				"content_html": "<p>First episode of &ldquo;Strange New Worlds&rdquo; nailed it. The title sequence, theme music, plot, characters&hellip; all of it. This is good Star Trek. 🎥🖖</p>\n",
@@ -43,7 +59,7 @@
 				"id": "http://mcg.micro.blog/2022/04/04/our-flame-azelea.html",
 				
 				"content_html": "<p>Our Flame Azelea starting to bloom.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our Flame Azelea starting to bloom. \n\n<img src=\"uploads/2022/4ddb6318f3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Our Flame Azelea starting to bloom. \n\n<img src=\"https://braintube.com/uploads/2022/4ddb6318f3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-04T14:29:05-04:00",
 				"url": "https://braintube.com/2022/04/04/our-flame-azelea.html",
 				"tags": ["Photos"]
