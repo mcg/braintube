@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mcg.micro.blog/2022/06/04/hopefully-the-pushback.html",
+				
+				"content_html": "<p>Hopefully the pushback on Apple including promos, commercials and interviews in Music playlists, will get them to reverse that decision.</p>\n",
+				"content_text": "Hopefully the pushback on Apple including promos, commercials and interviews in Music playlists, will get them to reverse that decision. \n",
+				"date_published": "2022-06-04T18:30:29-04:00",
+				"url": "https://braintube.com/2022/06/04/hopefully-the-pushback.html"
+			},
+			{
 				"id": "http://mcg.micro.blog/2022/05/20/sad-to-read.html",
 				
 				"content_html": "<p>Sad to read that <a href=\"https://www.bbc.com/news/entertainment-arts-61514850\">Vangelis</a> passed away. His music definitely influenced my interest in synths and music in general. 🎶</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://mcg.micro.blog/2022/04/23/been-a-while.html",
 				
 				"content_html": "<p>Been a while since I hung out at the “Second State Coffee” downtown location.\n☕️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Been a while since I hung out at the “Second State Coffee” downtown location. \n☕️\n\n<img src=\"uploads/2022/15b0805568.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Been a while since I hung out at the “Second State Coffee” downtown location. \n☕️\n\n<img src=\"https://braintube.com/uploads/2022/15b0805568.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-23T11:25:13-04:00",
 				"url": "https://braintube.com/2022/04/23/been-a-while.html",
 				"tags": ["Photos"]
