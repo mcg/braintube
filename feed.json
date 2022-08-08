@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mcg.micro.blog/2022/07/31/finally-made-it.html",
+				
+				"content_html": "<p>Finally made it to “The Expanse” in my reading queue. I am just about finished with the first book and coming from the show, which I was already a huge fan of, I’m surprised with how closely the show followed the book. I’ve heard things diverge more in the later seasons tho. 📺 📚🚀</p>\n",
+				"content_text": "Finally made it to “The Expanse” in my reading queue. I am just about finished with the first book and coming from the show, which I was already a huge fan of, I’m surprised with how closely the show followed the book. I’ve heard things diverge more in the later seasons tho. 📺 📚🚀\n",
+				"date_published": "2022-07-31T14:43:02-04:00",
+				"url": "https://braintube.com/2022/07/31/finally-made-it.html"
+			},
+			{
 				"id": "http://mcg.micro.blog/2022/07/25/sleepy-but-also.html",
 				
 				"content_html": "<p>Sleepy, but also RAWR!</p>\n<!-- raw HTML omitted -->\n",
@@ -1226,7 +1234,7 @@
 				"id": "http://mcg.micro.blog/2017/12/09/actual-beer-nerd.html",
 				
 				"content_html": "<p>Actual beer nerd in the wild</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Actual beer nerd in the wild\n\n<img src=\"uploads/2019/cd54bf0582.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Actual beer nerd in the wild\n\n<img src=\"https://braintube.com/uploads/2019/cd54bf0582.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-12-09T11:10:00-04:00",
 				"url": "https://braintube.com/2017/12/09/actual-beer-nerd.html",
 				"tags": ["Photos"]
