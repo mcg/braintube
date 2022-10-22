@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mcg.micro.blog/2022/10/19/well-this-is.html",
+				
+				"content_html": "<p>Well this is a nice surprise <a href=\"https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/\">blog.pocketcasts.com/2022/10/1&hellip;</a></p>\n",
+				"content_text": "Well this is a nice surprise [blog.pocketcasts.com/2022/10/1...](https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/)\n",
+				"date_published": "2022-10-19T12:08:13-04:00",
+				"url": "https://braintube.com/2022/10/19/well-this-is.html"
+			},
+			{
 				"id": "http://mcg.micro.blog/2022/10/12/bikes-new-rich.html",
 				
 				"content_html": "<p><a href=\"https://www.hogbaysoftware.com/posts/bike-rich-text/\">Bike’s new rich text editing implementation</a> is simple and innovative. As good as Markdown, without the noise&hellip; maybe.</p>\n",
