@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mcg.micro.blog/2022/11/02/just-caught-up.html",
+				
+				"content_html": "<p>🎥 Just caught up with Andor episodes. It has a nice slow burn. Episodes where almost nothing happens, but the intensity keeps ramping. Great show and good StarWars.</p>\n",
+				"content_text": "🎥 Just caught up with Andor episodes. It has a nice slow burn. Episodes where almost nothing happens, but the intensity keeps ramping. Great show and good StarWars. \n",
+				"date_published": "2022-11-02T20:02:37-04:00",
+				"url": "https://braintube.com/2022/11/02/just-caught-up.html"
+			},
+			{
 				"id": "http://mcg.micro.blog/2022/10/19/well-this-is.html",
 				
 				"content_html": "<p>Well this is a nice surprise <a href=\"https://blog.pocketcasts.com/2022/10/19/pocket-casts-mobile-apps-are-now-open-source/\">blog.pocketcasts.com/2022/10/1&hellip;</a></p>\n",
