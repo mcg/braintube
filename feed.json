@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mcg.micro.blog/2022/12/30/my-ode-grinder.html",
+				
+				"content_html": "<p>My Ode grinder lives!</p>\n<p>Had to drill out a jammed burr and do some hammering to free the burr carrier. Sanded the auger, then installed a set of Ode gen 2 burrs on a new carrier. Got the burrs aligned and it’s back to producing nicely ground coffee. Fellow support was helpful and it’s great they have parts available. The Ode is built like a tank and the gen 2 burrs fix the issue of the Ode not grinding fine enough.  ☕️</p>\n",
+				"content_text": "My Ode grinder lives!  \n\nHad to drill out a jammed burr and do some hammering to free the burr carrier. Sanded the auger, then installed a set of Ode gen 2 burrs on a new carrier. Got the burrs aligned and it’s back to producing nicely ground coffee. Fellow support was helpful and it’s great they have parts available. The Ode is built like a tank and the gen 2 burrs fix the issue of the Ode not grinding fine enough.  ☕️\n",
+				"date_published": "2022-12-30T15:20:23-05:00",
+				"url": "https://braintube.com/2022/12/30/my-ode-grinder.html"
+			},
+			{
+				"id": "http://mcg.micro.blog/2022/12/30/wildcat-on-prime.html",
+				
+				"content_html": "<p>WildCat on Prime is hard to watch at times, but worth it.</p>\n",
+				"content_text": "WildCat on Prime is hard to watch at times, but worth it.\n",
+				"date_published": "2022-12-30T08:18:34-05:00",
+				"url": "https://braintube.com/2022/12/30/wildcat-on-prime.html"
+			},
+			{
 				"id": "http://mcg.micro.blog/2022/12/24/a-baltimore-oriole.html",
 				
 				"content_html": "<p>A Baltimore Oriole showed up on our feeder this morning. Seems to be kinda behind with it’s migration. Hopefully this cold doesn’t hurt it.</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://mcg.micro.blog/2022/11/27/first-tree-lighting.html",
 				
 				"content_html": "<p>First tree lighting of the season for us.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First tree lighting of the season for us. \n\n<img src=\"uploads/2022/c3eea44443.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "First tree lighting of the season for us. \n\n<img src=\"https://braintube.com/uploads/2022/c3eea44443.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-27T17:09:26-05:00",
 				"url": "https://braintube.com/2022/11/27/first-tree-lighting.html",
 				"tags": ["Photos"]
@@ -43,7 +59,7 @@
 				"id": "http://mcg.micro.blog/2022/11/10/this-has-been.html",
 				
 				"content_html": "<p>This has been on repeat most of the week. Lava Canal is a standout.</p>\n<p><a href=\"https://music.apple.com/us/album/seven-hour-sunset/1652350049\">Seven Hour Sunset by Hello Meteor</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This has been on repeat most of the week. Lava Canal is a standout. \r\n\r\n[Seven Hour Sunset by Hello Meteor](https://music.apple.com/us/album/seven-hour-sunset/1652350049)\r\n\r\n<img src=\"uploads/2022/71ff463411.jpg\" width=\"400\" height=\"400\" alt=\"Album cover that appears to be an old picture of lava coming out of a volcano.\" />\n",
+				"content_text": "This has been on repeat most of the week. Lava Canal is a standout. \r\n\r\n[Seven Hour Sunset by Hello Meteor](https://music.apple.com/us/album/seven-hour-sunset/1652350049)\r\n\r\n<img src=\"https://braintube.com/uploads/2022/71ff463411.jpg\" width=\"400\" height=\"400\" alt=\"Album cover that appears to be an old picture of lava coming out of a volcano.\" />\n",
 				"date_published": "2022-11-10T17:16:34-05:00",
 				"url": "https://braintube.com/2022/11/10/this-has-been.html",
 				"tags": ["Photos"]
