@@ -52,7 +52,7 @@
 				"id": "http://mcg.micro.blog/2023/03/04/tiny-blooms-on.html",
 				
 				"content_html": "<p>Tiny blooms on our Pawpaw tree.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tiny blooms on our Pawpaw tree.\n\n<img src=\"uploads/2023/e10b41c52f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Tiny blooms on our Pawpaw tree.\n\n<img src=\"https://cdn.uploads.micro.blog/10612/2023/e10b41c52f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-03-04T09:07:19-04:00",
 				"url": "https://braintube.com/2023/03/04/tiny-blooms-on.html",
 				"tags": ["Photos"]
